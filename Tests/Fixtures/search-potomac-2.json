@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "USGS-0159496150",
+        "agency_code": "USGS",
+        "agency_name": "U.S. Geological Survey",
+        "monitoring_location_number": "0159496150",
+        "monitoring_location_name": "NORTH BRANCH POTOMAC RIVER AT GORMAN, MD",
+        "district_code": "24",
+        "country_code": "US",
+        "country_name": "United States of America",
+        "state_code": "24",
+        "state_name": "Maryland",
+        "county_code": "023",
+        "county_name": "Garrett County",
+        "minor_civil_division_code": null,
+        "site_type_code": "ST",
+        "site_type": "Stream",
+        "hydrologic_unit_code": "020700020203",
+        "basin_code": null,
+        "altitude": 2314.0,
+        "altitude_accuracy": 3.0,
+        "altitude_method_code": "N",
+        "altitude_method_name": "Interpolated from Digital Elevation Model",
+        "vertical_datum": "NAVD88",
+        "vertical_datum_name": "North American Vertical Datum of 1988",
+        "horizontal_positional_accuracy_code": "1",
+        "horizontal_positional_accuracy": "Accurate to + or - .1 sec (Differentially-Corrected GPS).",
+        "horizontal_position_method_code": "N",
+        "horizontal_position_method_name": "Interpolated from digital map",
+        "original_horizontal_datum": "NAD83",
+        "original_horizontal_datum_name": "North American Datum of 1983",
+        "drainage_area": 53.9,
+        "contributing_drainage_area": null,
+        "time_zone_abbreviation": "EST",
+        "uses_daylight_savings": "Y",
+        "construction_date": null,
+        "aquifer_code": null,
+        "national_aquifer_code": null,
+        "aquifer_type_code": null,
+        "well_constructed_depth": null,
+        "hole_constructed_depth": null,
+        "depth_source_code": null,
+        "revision_note": null,
+        "revision_created": null,
+        "revision_modified": null
+      },
+      "id": "USGS-0159496150",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.350861,
+          39.285306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "USGS-01595000",
+        "agency_code": "USGS",
+        "agency_name": "U.S. Geological Survey",
+        "monitoring_location_number": "01595000",
+        "monitoring_location_name": "NORTH BRANCH POTOMAC RIVER AT STEYER, MD",
+        "district_code": "24",
+        "country_code": "US",
+        "country_name": "United States of America",
+        "state_code": "24",
+        "state_name": "Maryland",
+        "county_code": "023",
+        "county_name": "Garrett County",
+        "minor_civil_division_code": "90688",
+        "site_type_code": "ST",
+        "site_type": "Stream",
+        "hydrologic_unit_code": "020700020203",
+        "basin_code": null,
+        "altitude": 2275.56,
+        "altitude_accuracy": 0.04,
+        "altitude_method_code": "L",
+        "altitude_method_name": "Level or other surveyed method.",
+        "vertical_datum": "NAVD88",
+        "vertical_datum_name": "North American Vertical Datum of 1988",
+        "horizontal_positional_accuracy_code": "S",
+        "horizontal_positional_accuracy": "Accurate to + or - 1 sec.",
+        "horizontal_position_method_code": "M",
+        "horizontal_position_method_name": "Interpolated from MAP.",
+        "original_horizontal_datum": "NAD83",
+        "original_horizontal_datum_name": "North American Datum of 1983",
+        "drainage_area": 73.1,
+        "contributing_drainage_area": null,
+        "time_zone_abbreviation": "EST",
+        "uses_daylight_savings": "Y",
+        "construction_date": null,
+        "aquifer_code": null,
+        "national_aquifer_code": null,
+        "aquifer_type_code": null,
+        "well_constructed_depth": null,
+        "hole_constructed_depth": null,
+        "depth_source_code": null,
+        "revision_note": "WDR WV-97-1: Drainage area.",
+        "revision_created": "2017-11-13T06:00:00+00:00",
+        "revision_modified": null
+      },
+      "id": "USGS-01595000",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.30688888888889,
+          39.30188888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "USGS-01595015",
+        "agency_code": "USGS",
+        "agency_name": "U.S. Geological Survey",
+        "monitoring_location_number": "01595015",
+        "monitoring_location_name": "DIFFICULT CREEK AT POTOMAC RIVER NEAR STEYER, MD",
+        "district_code": "24",
+        "country_code": "US",
+        "country_name": "United States of America",
+        "state_code": "54",
+        "state_name": "West Virginia",
+        "county_code": "023",
+        "county_name": "Grant County",
+        "minor_civil_division_code": null,
+        "site_type_code": "ST",
+        "site_type": "Stream",
+        "hydrologic_unit_code": "020700020203",
+        "basin_code": null,
+        "altitude": 2250.0,
+        "altitude_accuracy": 10.0,
+        "altitude_method_code": "M",
+        "altitude_method_name": "Interpolated from topographic map.",
+        "vertical_datum": "NGVD29",
+        "vertical_datum_name": "National Geodetic Vertical Datum of 1929",
+        "horizontal_positional_accuracy_code": "S",
+        "horizontal_positional_accuracy": "Accurate to + or - 1 sec.",
+        "horizontal_position_method_code": "M",
+        "horizontal_position_method_name": "Interpolated from MAP.",
+        "original_horizontal_datum": "NAD27",
+        "original_horizontal_datum_name": "North American Datum of 1927",
+        "drainage_area": 7.99,
+        "contributing_drainage_area": null,
+        "time_zone_abbreviation": "EST",
+        "uses_daylight_savings": "Y",
+        "construction_date": null,
+        "aquifer_code": null,
+        "national_aquifer_code": null,
+        "aquifer_type_code": null,
+        "well_constructed_depth": null,
+        "hole_constructed_depth": null,
+        "depth_source_code": null,
+        "revision_note": null,
+        "revision_created": null,
+        "revision_modified": null
+      },
+      "id": "USGS-01595015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2925415678216,
+          39.2987142394677
+        ]
+      }
+    }
+  ],
+  "numberReturned": 3,
+  "links": [
+    {
+      "rel": "next",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/monitoring-locations/items?cursor=VVNHUy0wMTU5NTAxNQ&filter=agency_code%20%3D%20%27USGS%27%20AND%20monitoring_location_name%20LIKE%20%27%25POTOMAC%20RIVER%25%27&filter-lang=cql-text&limit=3&f=json",
+      "type": "application/geo+json",
+      "title": "Items (next)"
+    },
+    {
+      "type": "application/geo+json",
+      "rel": "self",
+      "title": "This document as GeoJSON",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/monitoring-locations/items?f=json&filter=agency_code%20%3D%20%27USGS%27%20AND%20monitoring_location_name%20LIKE%20%27%25POTOMAC%20RIVER%25%27&filter-lang=cql-text&limit=3"
+    },
+    {
+      "rel": "alternate",
+      "type": "application/ld+json",
+      "title": "This document as RDF (JSON-LD)",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/monitoring-locations/items?f=jsonld&filter=agency_code%20%3D%20%27USGS%27%20AND%20monitoring_location_name%20LIKE%20%27%25POTOMAC%20RIVER%25%27&filter-lang=cql-text&limit=3"
+    },
+    {
+      "type": "text/html",
+      "rel": "alternate",
+      "title": "This document as HTML",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/monitoring-locations/items?f=html&filter=agency_code%20%3D%20%27USGS%27%20AND%20monitoring_location_name%20LIKE%20%27%25POTOMAC%20RIVER%25%27&filter-lang=cql-text&limit=3"
+    },
+    {
+      "type": "text/csv; charset=utf-8",
+      "rel": "alternate",
+      "title": "This document as CSV",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/monitoring-locations/items?f=csv&filter=agency_code%20%3D%20%27USGS%27%20AND%20monitoring_location_name%20LIKE%20%27%25POTOMAC%20RIVER%25%27&filter-lang=cql-text&limit=3"
+    },
+    {
+      "type": "application/json",
+      "title": "Monitoring locations",
+      "rel": "collection",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/monitoring-locations"
+    }
+  ],
+  "timeStamp": "2026-10-15T13:44:22.974603Z"
+}

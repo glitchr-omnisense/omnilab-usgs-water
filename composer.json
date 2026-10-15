@@ -1,0 +1,46 @@
+{
+    "name": "omnilab/usgs-water",
+    "type": "library",
+    "description": "Omnilab USGS Water: the USGS's water data through the Water Data OGC APIs (which replace the WaterServices) - a monitoring location's series (discharge, gage height, water temperature, any parameter by its USGS code) as recorded every 5 or 15 minutes, hourly, or as the USGS's daily statistics, at a station named or the nearest one of a point; a monitoring location as an entity with its place, drainage area and the series it keeps; the locations by name. No key needed; an api.data.gov key raises the rate limit.",
+    "keywords": [
+        "science",
+        "earth-sciences",
+        "hydrology",
+        "streamflow",
+        "water",
+        "usgs",
+        "nwis",
+        "omnilab"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marco Meyer",
+            "email": "marco.meyer@glitchr.io"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "glitchr/omnilab": "^1.0@dev",
+        "symfony/http-client": "^6.4|^7.0|^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Omnilab\\UsgsWater\\": ""
+        },
+        "exclude-from-classmap": [
+            "/Tests/"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Omnilab\\UsgsWater\\Tests\\": "Tests/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}

@@ -1,0 +1,6375 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:00:00+00:00",
+        "value": "14000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "954c6e94-3de0-4bf1-9f60-5b80ad2ec0a3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:05:00+00:00",
+        "value": "14000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "618bb8f4-539d-4fea-a69a-8f3ff056cb2e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:10:00+00:00",
+        "value": "14000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "7c68f6fe-db18-4d6a-ac74-0b2fb625d800",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:15:00+00:00",
+        "value": "14000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "e2fd47d0-b3c2-47c6-9de6-03edf171ddf3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:20:00+00:00",
+        "value": "14000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "61ab18eb-6913-4289-88e0-fd6cef02266d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:25:00+00:00",
+        "value": "14000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "5f2b2c18-466b-4e8d-9553-0b0913a84e70",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:30:00+00:00",
+        "value": "14000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "89ad72b9-47d8-4ee0-9a27-6a2ed453ed34",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:35:00+00:00",
+        "value": "14000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "424460e9-24d2-4c3f-85c4-716306a6bdcb",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:40:00+00:00",
+        "value": "14000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "3ce5bd6b-c064-4c91-9e23-ef579a34f670",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:45:00+00:00",
+        "value": "14100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "7d4f2663-bb78-4989-a694-436b23a471aa",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:50:00+00:00",
+        "value": "14100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "e4760018-e38e-4281-8282-6c8fc61aa897",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:55:00+00:00",
+        "value": "14100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "7c65a8c3-42d5-4588-b3cd-e1a39c40fb9f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:00:00+00:00",
+        "value": "14100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "a35fcbef-ea99-4848-a9ed-787d1d08c3df",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:05:00+00:00",
+        "value": "14100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "87a81292-ded0-40fa-8db2-675cfbdd36b4",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:10:00+00:00",
+        "value": "14100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "3c2675de-3d8d-4551-ad09-ae2ff562041b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:15:00+00:00",
+        "value": "14100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "fcc81b37-0f0a-4c6e-9ad2-e680859fd94e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:20:00+00:00",
+        "value": "14200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "e6f6df1f-f1ed-40be-9912-4f0777852f89",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:25:00+00:00",
+        "value": "14200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "88c01441-986c-4081-98e2-a35a8ccff980",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:30:00+00:00",
+        "value": "14200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "11d8a963-0592-46c1-ad81-0d664aecd815",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:35:00+00:00",
+        "value": "14200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "dc4f068c-e0d1-41c9-a5fc-f0cfb3dd7a6a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:40:00+00:00",
+        "value": "14400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "9729e17b-7d16-4f8f-bd2d-432dbffa00b2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:45:00+00:00",
+        "value": "14200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "a782997c-dafd-4231-926a-caa978ed2528",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:50:00+00:00",
+        "value": "14400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "f2d09910-4900-455b-96ce-2063c6e34d3c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:55:00+00:00",
+        "value": "14400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "682df9a6-3461-4b43-ba77-fca3ae622f68",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:00:00+00:00",
+        "value": "14500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "4132b4d4-ee97-4060-802e-8f5e132fd769",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:05:00+00:00",
+        "value": "14500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "8fff2f77-273d-44b4-9c3b-0eb4fc48e056",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:10:00+00:00",
+        "value": "14500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "a15f13f8-b245-471f-be0d-a27050590edb",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:15:00+00:00",
+        "value": "14500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "59f0f73f-ae6f-4893-911f-c8881c1a794f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:20:00+00:00",
+        "value": "14600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "51d9d401-24c2-4532-a17e-758daa99a756",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:25:00+00:00",
+        "value": "14600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "deb8ca97-32e3-47a8-921f-22e9c17b4308",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:30:00+00:00",
+        "value": "14600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "e982c6be-0078-424c-be0f-f26826e82fc7",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:35:00+00:00",
+        "value": "14600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "fa76ebe9-43a4-47da-8e8d-f1e941878fdc",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:40:00+00:00",
+        "value": "14700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "01aec3df-c45e-428d-a6c4-aab29c38ee2d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:45:00+00:00",
+        "value": "14600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "3665c6ae-6a59-4d35-b4a6-5d8990e3031b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:50:00+00:00",
+        "value": "14700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "44243381-53de-47d9-9248-8373d513cceb",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:55:00+00:00",
+        "value": "14800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "1ef4f54f-299c-4b68-949c-c4a51ac78a29",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:00:00+00:00",
+        "value": "14800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "375bb1f3-5591-49d6-8b6e-4c0ed0cc0b7a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:05:00+00:00",
+        "value": "14800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "21a9ef30-3526-404f-b07a-de6157b4a42a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:10:00+00:00",
+        "value": "14900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "0fa68315-ae2e-4330-ad81-b3f25417aa8a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:15:00+00:00",
+        "value": "14900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "433bedb7-be67-41dd-9592-b9f731abd6c6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:20:00+00:00",
+        "value": "15000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "813e509b-e4f7-4111-b0b2-967ac32ec694",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:25:00+00:00",
+        "value": "15000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "f47099f0-c756-4ea7-b162-85ec570ee14a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:30:00+00:00",
+        "value": "15100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "075f482b-d32d-415c-8319-c84790145931",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:35:00+00:00",
+        "value": "15200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "a549492b-7d57-44ad-bc93-b5c932d2101f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:40:00+00:00",
+        "value": "15200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "416e80a4-af86-4e3c-b2c1-4ca709d79de2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:45:00+00:00",
+        "value": "15200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "d33dba5e-803c-4eb5-bc99-10d4c47c3963",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:50:00+00:00",
+        "value": "15400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "536a4145-24c4-43a7-b3e2-56eb821996a9",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:55:00+00:00",
+        "value": "15300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "0abe927a-5519-4837-94f6-6690817ecb5e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:00:00+00:00",
+        "value": "15400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "77d5e4d0-a05d-4aa2-89ac-44a7a2bf297e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:05:00+00:00",
+        "value": "15400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "9e3d2169-cedf-408d-b050-e77e76e8d6b2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:10:00+00:00",
+        "value": "15500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "702f7c0b-6ef9-47d6-ad3d-2f4b5f1e747d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:15:00+00:00",
+        "value": "15600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "4347b4f5-bbfd-43d4-8597-9209d4cbb978",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:20:00+00:00",
+        "value": "15700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "6abffd03-0b42-4bc5-a720-2c5cbbe8518c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:25:00+00:00",
+        "value": "15700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "7febddc4-130e-4cce-ac26-a3e4c0c13962",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:30:00+00:00",
+        "value": "15800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "c5941fee-c47c-4aca-b116-6e15935d5135",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:35:00+00:00",
+        "value": "15900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "c7f7f42b-5c51-4c18-83e1-c8c77d73cb56",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:40:00+00:00",
+        "value": "15900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "f213a6da-bff4-4814-8fff-66505089052c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:45:00+00:00",
+        "value": "16100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "5461c4fc-9690-4595-ba6c-d37190696b42",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:50:00+00:00",
+        "value": "16200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "36381bf5-aacf-4f37-bc82-3d3aef6fd9f9",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:55:00+00:00",
+        "value": "16300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "324842a2-79d5-46c3-8d4b-3e0410169f13",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:00:00+00:00",
+        "value": "16400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "19503cf4-74c5-4577-bebb-3b2e16b7bbc4",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:05:00+00:00",
+        "value": "16500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "6083fe4e-f3f6-4973-bc16-95466d41b84b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:10:00+00:00",
+        "value": "16500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "fca2c1ee-0bc0-4bc1-9137-2f8a3f20098f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:15:00+00:00",
+        "value": "16600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "72b5c315-504b-440b-9ce9-07e0783471b4",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:20:00+00:00",
+        "value": "16800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "7254db84-d618-4efd-860f-59ed312617a6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:25:00+00:00",
+        "value": "16800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "f1dac85e-0f9b-4dd0-b147-523c4c835eb4",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:30:00+00:00",
+        "value": "16900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "c5c7cb33-a62e-4abc-9c6a-6c485c72f862",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:35:00+00:00",
+        "value": "16900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "b6fa19b3-fd0e-4f43-9ce1-08ae51a4e2b4",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:40:00+00:00",
+        "value": "17200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "bc9a3083-f4dc-4d45-8285-c21486380b64",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:45:00+00:00",
+        "value": "17300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "ab99c0cd-dc6e-400a-9a52-eba90d15c044",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:50:00+00:00",
+        "value": "17400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "73bfba4f-c76a-4ce6-aa79-fca7bf9fa090",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:55:00+00:00",
+        "value": "17500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "dcd8f859-1790-4531-80f8-84a8efeea4ab",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:00:00+00:00",
+        "value": "17600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "106a7495-8ca5-4c6f-bc06-67c07e47127a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:05:00+00:00",
+        "value": "17700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "7291796b-cf33-4e62-a03b-201322d39728",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:10:00+00:00",
+        "value": "17800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "3469af3d-182a-4771-a72b-0612bd67e583",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:15:00+00:00",
+        "value": "18000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "3a48f011-bcaf-4339-8021-3695c2abd26e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:20:00+00:00",
+        "value": "18100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "8ce5a957-5e5a-4d19-b2b0-4ec087876695",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:25:00+00:00",
+        "value": "18100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "00bcf5c1-87d5-467f-940b-6a9a575eb539",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:30:00+00:00",
+        "value": "18300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "8eb852a3-5085-4f18-a997-507cf13b889b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:35:00+00:00",
+        "value": "18300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "9211e74b-93c4-4a68-9e7b-ea996224443e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:40:00+00:00",
+        "value": "18500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "5f994b52-544a-4985-910f-ad9a3fce43e6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:45:00+00:00",
+        "value": "18500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "528421eb-44a7-44af-8b10-621fdad9224b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:50:00+00:00",
+        "value": "18700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "93054c77-a553-4c9c-bb94-5f1ecf12d065",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:55:00+00:00",
+        "value": "18800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "36b096b7-0488-47e8-a98b-20d95997f795",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:00:00+00:00",
+        "value": "19000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "5c712e63-1cc4-455f-ae44-bc3a09dfa201",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:05:00+00:00",
+        "value": "19000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "a67a75ef-dd1d-4c0e-97fc-7956f24045ab",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:10:00+00:00",
+        "value": "19100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "884f932d-cf79-43d2-b161-680a28b9f0fa",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:15:00+00:00",
+        "value": "19400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "8f815781-bfce-4d2c-85c1-3e37d3db1487",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:20:00+00:00",
+        "value": "19400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "7ed81864-269e-47ca-9ff7-f90819f3bfec",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:25:00+00:00",
+        "value": "19600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "b2583df1-55e6-464f-8524-1c89065ec886",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:30:00+00:00",
+        "value": "19600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "bad5d039-2047-4c4e-ab3f-2ed474387bb9",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:35:00+00:00",
+        "value": "19700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "7239f9ac-a926-4efc-be60-98711fadb552",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:40:00+00:00",
+        "value": "19800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "de58e051-f1ac-41b1-a7b2-e88dabd00a0e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:45:00+00:00",
+        "value": "20000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "cca0e2ae-d160-44db-9f81-e65c0250fe74",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:50:00+00:00",
+        "value": "20100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "fcb63067-f348-4122-b78f-c4cf43ae42d0",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:55:00+00:00",
+        "value": "20200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "a672af8f-9e3b-432e-bc8a-ce0e8185c4a3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:00:00+00:00",
+        "value": "20300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "ffdba462-168d-4bc9-9900-04f0aab035a6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:05:00+00:00",
+        "value": "20300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "58b65d35-8c33-44b9-b754-a360315a0696",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:10:00+00:00",
+        "value": "20400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "afae566a-d165-4900-8c1f-59f84ced0a1c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:15:00+00:00",
+        "value": "20700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "abac012e-1613-49d5-b6e4-5ca97f93f071",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:20:00+00:00",
+        "value": "20800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "172a39d8-4799-4aad-8b1e-2127a8d4eb7f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:25:00+00:00",
+        "value": "20800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "dffbe317-c629-4f0e-84bd-8082c8513814",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:30:00+00:00",
+        "value": "20900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "f617a42a-86dd-4b7c-94ba-9419cdac71cb",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:35:00+00:00",
+        "value": "20900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "c12fa2a1-d514-423a-a168-0618a485d39b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:40:00+00:00",
+        "value": "21100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "aafa2537-fcb0-49a3-ba01-4f55ce5a84a9",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:45:00+00:00",
+        "value": "21200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "66694dac-be63-4d81-8982-b78885a7fc55",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:50:00+00:00",
+        "value": "21300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "2bc038b4-6158-4945-ae0c-c1ec5a51f479",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:55:00+00:00",
+        "value": "21400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "448a7def-5ded-473c-ad98-c4da74fdd76d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:00:00+00:00",
+        "value": "21400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "baf1a3c2-5844-4ccc-bcfe-8817eb60dea3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:05:00+00:00",
+        "value": "21700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "2873033f-d566-42e9-88ce-6257c25c4384",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:10:00+00:00",
+        "value": "21700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "b260258e-921d-4132-b8f0-8292fbd76165",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:15:00+00:00",
+        "value": "21700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "0f84f613-2f8f-499d-ac00-5769c27ac43e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:20:00+00:00",
+        "value": "21900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "9bee7018-aa8d-4a5b-8384-1d8855d8c17c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:25:00+00:00",
+        "value": "21900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "32b299a9-6d7a-49df-8dbf-ad7d33d201ce",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:30:00+00:00",
+        "value": "22000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "bb67421b-7773-4c84-9cf6-8b9ff55f525e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:35:00+00:00",
+        "value": "22200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "4fdb0f84-b1ce-4b56-a461-fba4c4382294",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:40:00+00:00",
+        "value": "22200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "ebbbc063-8b67-42d7-84c7-3b57a36d4528",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:45:00+00:00",
+        "value": "22300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "3a3c1c85-7d0a-491e-a30c-d2a760cea587",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:50:00+00:00",
+        "value": "22300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "89a37afc-dc72-420c-a257-b83a0c2f543b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:55:00+00:00",
+        "value": "22400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "348a2118-d9ac-4363-97f6-13d7f7256842",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:00:00+00:00",
+        "value": "22400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "40abccc1-24f8-498c-b1e5-523ebf58f710",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:05:00+00:00",
+        "value": "22500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "3657854a-66ed-4033-9980-61be6a071f43",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:10:00+00:00",
+        "value": "22700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "fb73daf9-78b1-4f98-a305-76f6b775a9e6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:15:00+00:00",
+        "value": "22500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "a88af27b-7495-4e7c-b5cc-398a7cf3f7bd",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:20:00+00:00",
+        "value": "22700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "9db94bd5-5dc6-4b96-9f02-6c957b870efa",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:25:00+00:00",
+        "value": "22700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "5f5bbc9e-0bb3-43f0-866f-fce11ea1802d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:30:00+00:00",
+        "value": "22800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "6357c7d4-ce0f-45d8-a71e-116617661079",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:35:00+00:00",
+        "value": "22900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "2fb602fd-5ea5-403c-9958-6426bf752099",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:40:00+00:00",
+        "value": "22900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "42980406-6882-449d-8919-8ae41f063c12",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:45:00+00:00",
+        "value": "23100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "2ffd19ea-0f81-46ac-b61f-18a9b4e88a2b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:50:00+00:00",
+        "value": "23100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "9dd787a3-9174-44ec-a029-3ad05090fed9",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:55:00+00:00",
+        "value": "23100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "a53799fe-9e1f-43f2-92b6-175c20284712",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:00:00+00:00",
+        "value": "23200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "4631c5b5-c939-485e-a5a3-09cf87046bd2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:05:00+00:00",
+        "value": "23300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "7622bd9e-1186-42eb-8faf-7563cc726a42",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:10:00+00:00",
+        "value": "23400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "7b465f0c-c8a2-4afc-8fdc-8c72a54549a0",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:15:00+00:00",
+        "value": "23300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "b889f549-d54a-4843-9415-f749ddf9e184",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:20:00+00:00",
+        "value": "23600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "a357dc7e-71d9-415b-969e-ef955ae42cb0",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:25:00+00:00",
+        "value": "23600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "e62e92bc-9766-4a23-b373-726110130430",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:30:00+00:00",
+        "value": "23600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "d7d81784-e7e9-410e-a13e-ca40883c3dba",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:35:00+00:00",
+        "value": "23700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "21ad39d3-2be5-47d3-8bbb-de18e3046605",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:40:00+00:00",
+        "value": "23700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "e0dc5cf2-830d-46f2-8c13-5410fb67dc5e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:45:00+00:00",
+        "value": "23800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "4ae49370-112f-4d54-bc9b-0036f55bc9ca",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:50:00+00:00",
+        "value": "23700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "fce335ad-47f3-4522-b755-2265aec3e12d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:55:00+00:00",
+        "value": "23800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "d86c0c5a-0154-498a-a621-3f7a50f5272c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:00:00+00:00",
+        "value": "23800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "00cc698c-d74d-4206-8a25-d7826ccd6a95",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:05:00+00:00",
+        "value": "23800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "d6db8101-6dfa-4c3b-8d8e-454f91325940",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:10:00+00:00",
+        "value": "24000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "3de80556-70b5-46d1-8491-8a679a6c61cb",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:15:00+00:00",
+        "value": "24000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "dab492a5-6be2-467e-a549-22ceecdf3361",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:20:00+00:00",
+        "value": "24000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "bc7ce67b-16a3-4bd9-92a8-03b7353dd771",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:25:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "d1e11ce6-b6fc-43fd-a803-4ffab05f28a7",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:30:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "24904626-f36a-43d4-9a3d-7fe7f76721d2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:35:00+00:00",
+        "value": "24000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "6964aabc-94ec-48a7-962d-af8f6629cae4",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:40:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "8e800b8b-8349-4845-867b-be22a20a6f01",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:45:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "658e9265-e800-4ddc-83ea-c0912b227668",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:50:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "39db0114-249d-4f76-8c8a-5380454fa4ee",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:55:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "f5dc992c-7c2e-4b3c-ac8b-a984290a17b0",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:00:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "57894181-1f6e-4ec3-a2bf-bcd1b19b4163",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:05:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "6366db27-758b-4d5d-afaf-dd8cb9f76ed5",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:10:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "5d8c7986-6bcf-4719-a126-b0689a336105",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:15:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "480a75f6-3c64-450d-ad7b-ef3538207920",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:20:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "b02d2566-5088-43fe-a284-5047699c92d6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:25:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "475f5427-cc57-4b75-ab53-bf67354b0ec6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:30:00+00:00",
+        "value": "24000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "dc341cf4-e620-4869-9fab-857503e3a68d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:35:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "ffe8cb42-af54-434c-9cf5-4e8a88925bed",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:40:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "67e80078-83a3-4393-af72-0c8b32f2eec5",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:45:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "427c6409-76d2-4e13-a1e2-95d8ee8f6949",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:50:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "e2c7d383-673c-40e8-97fa-b939feb5026e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:55:00+00:00",
+        "value": "24000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "15942570-0730-4d6d-bf12-68c2f253d0fd",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:00:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "63fd601b-b109-4677-be2f-6ede961b9409",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:05:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "83e617a4-bccd-40c6-84bb-c7bb0f44841a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:10:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "ab3dab7d-47ca-4581-bb72-a73286789a7b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:15:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "d02fbb0b-4a68-449d-b504-3eeea16967a4",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:20:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "39565137-627b-43d8-b54e-25de2f5ccad6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:25:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "4f43175b-d596-4975-bc02-200ed9ca33b2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:30:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "b353ad2c-edc3-4aa6-bb72-87811127ce2d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:35:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "21210947-0926-41fb-8fe1-02936d2b6511",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:40:00+00:00",
+        "value": "24100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "86720df4-ab71-4574-b0ee-0d3e28450203",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:45:00+00:00",
+        "value": "24300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "7dcf14cb-2e1c-4c0e-a975-f0f3109657fd",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:50:00+00:00",
+        "value": "24300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "378a4e91-5a06-42be-bfcc-619f89bbcf85",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:55:00+00:00",
+        "value": "24300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "f16d8828-7667-4f81-91e5-25f1365a04e3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:00:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "adf9fef4-b2bb-4782-8749-273a05fc06a2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:05:00+00:00",
+        "value": "24300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "4f0d7a18-fe69-4319-a520-b400bfec24fe",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:10:00+00:00",
+        "value": "24300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "272575e7-5f65-47fc-b347-ae8a36c5013e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:15:00+00:00",
+        "value": "24300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "e69832b3-3dee-4d70-86cf-a0fbcb04c647",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:20:00+00:00",
+        "value": "24300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "40aa6dab-04ba-489a-8bc8-00b050f69c9d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:25:00+00:00",
+        "value": "24300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "42e6836f-8a21-4f50-9742-2f245884d4aa",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:30:00+00:00",
+        "value": "24300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "8710865b-3861-43d7-9499-5b0791db3d16",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:35:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "932b020c-eb44-428e-adc2-d355e6cc1ec1",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:40:00+00:00",
+        "value": "24300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "653f6d6e-7dbd-4acc-affa-571182b57975",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:45:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "5ffa016c-d68a-4cb0-bca7-775810e065de",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:50:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "a2661102-5c4b-4295-8790-8eb7e2171988",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:55:00+00:00",
+        "value": "24300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "f4c3b465-d845-40d2-9be4-c740a7d93c1d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:00:00+00:00",
+        "value": "24300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "bca60465-f10d-46e2-b09c-55812c778b4b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:05:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "33cb3738-9b10-4e6e-93dc-17b72c9c6707",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:10:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "faf0702b-1a40-4a05-aad8-215ab2559d89",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:15:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "9248d37a-3f19-4358-94fd-f71d72f186ae",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:20:00+00:00",
+        "value": "24300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "f5411487-e44b-4e79-9a4d-31674e65c361",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:25:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "cf165fff-e9bf-4d2e-b5ba-2b3881be5204",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:30:00+00:00",
+        "value": "24200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "a1d8b2b7-2957-460c-90e2-d292dd110c47",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:35:00+00:00",
+        "value": "24000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "6c6711d4-3c94-40d9-b89f-5ca5ac020710",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:40:00+00:00",
+        "value": "24000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "882176b2-2c62-4530-a7b6-e2c73a4ccde3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:45:00+00:00",
+        "value": "24000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "e3ad56eb-31d9-4660-bb9d-86e8065b28e1",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:50:00+00:00",
+        "value": "24000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "8321dfd7-ba4f-463c-a89f-c0567a6d5a49",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:55:00+00:00",
+        "value": "23800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "659cd234-6bb2-406f-8ac4-4e0b64d3985e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:00:00+00:00",
+        "value": "23800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "695fe5fe-f826-4ecc-bfac-440ba03cefd0",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:05:00+00:00",
+        "value": "23800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "44def4f1-8ea0-4acc-87fd-bd2b90d78975",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:10:00+00:00",
+        "value": "23800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "a5223b17-c438-49e4-b6b0-b14b6564bde7",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:15:00+00:00",
+        "value": "23800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "5aec815b-f8f4-4202-b172-8a67996918bf",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:20:00+00:00",
+        "value": "23800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "7f308858-8e46-484e-b81a-aae4b2c74c2a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:25:00+00:00",
+        "value": "23700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "e7f7f374-f058-4712-b8aa-f454657a2f52",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:30:00+00:00",
+        "value": "23700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "50ed81ed-0321-4bff-a05d-007a3f30319e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:35:00+00:00",
+        "value": "23700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "678b6aa7-4230-435d-9ca4-507248cc942b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:40:00+00:00",
+        "value": "23700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "347db7cb-decd-440e-8cbe-bcfe86271e3d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:45:00+00:00",
+        "value": "23700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "3ba0280f-e371-4036-9ab5-7c42b50b01e7",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:50:00+00:00",
+        "value": "23700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "17613ee1-98be-4716-9fc4-7439714d382a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:55:00+00:00",
+        "value": "23700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "6311674d-27fc-4f3a-ac49-0f881e10b63d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:00:00+00:00",
+        "value": "23600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "8aaff6d2-4fa8-4452-a03e-239d7f45bc36",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:05:00+00:00",
+        "value": "23700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "00bbb3a2-d58d-4af1-9afc-d528ed0205aa",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:10:00+00:00",
+        "value": "23600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "48081cf6-0ce9-4a58-9ac6-b4b14e1aadce",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:15:00+00:00",
+        "value": "23600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "364b6180-abc2-4964-863c-97c85f049ff0",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:20:00+00:00",
+        "value": "23600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "c77fd061-9c53-431a-9075-154854817b49",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:25:00+00:00",
+        "value": "23600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "8801f616-6d3a-4f9c-b2a7-39f767f5cf4e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:30:00+00:00",
+        "value": "23600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "f545bcf2-87a7-4682-a8b5-9415eca2b882",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:35:00+00:00",
+        "value": "23400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "b1125c28-78de-4fc1-aeca-ffb69844a028",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:40:00+00:00",
+        "value": "23400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "ff5d0376-5a77-4a7b-b21f-1deb1a0c5812",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:45:00+00:00",
+        "value": "23600",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "1dd86ddb-5cd8-48b1-8d25-1731daf25a91",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:50:00+00:00",
+        "value": "23400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "0d9eb5f6-06a7-44a8-8da9-de4156d2be09",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:55:00+00:00",
+        "value": "23400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "00e7ea1a-7510-44cd-8f63-bd7a5aedf23c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:00:00+00:00",
+        "value": "23400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "fcc15ae7-1e15-4a55-b53e-a84fce8a1e16",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:05:00+00:00",
+        "value": "23300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "27fd7c40-b428-4052-aa3f-4307b55e6fc9",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:10:00+00:00",
+        "value": "23300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "8ed86abd-f5d3-45a1-ad3f-9a78d9311d1e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:15:00+00:00",
+        "value": "23300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "3f39f363-af8c-48d8-9c4e-a31495cbd54a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:20:00+00:00",
+        "value": "23300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "e5840fbe-8361-4575-b429-a9c2fb233728",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:25:00+00:00",
+        "value": "23300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "1727e275-f8a9-4d64-967e-ab6025d78768",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:30:00+00:00",
+        "value": "23200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "3c04bf58-638b-470c-b5ef-f1843388a77b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:35:00+00:00",
+        "value": "23200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "947de8b6-8675-4545-a751-4de3bce60335",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:40:00+00:00",
+        "value": "23200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "fab64a11-a6e2-46bf-9081-d3b161c1b976",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:45:00+00:00",
+        "value": "23200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "8e18670c-c1ef-4bb4-aad1-508ba885e6e3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:50:00+00:00",
+        "value": "23200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "e7a65a05-8252-4f80-b899-8dcd530ff0b6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:55:00+00:00",
+        "value": "23200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "3beeffdd-25bc-49b6-acc7-11621a39c36d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:00:00+00:00",
+        "value": "23100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "73290349-c803-4748-a436-e6de6f22a921",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:05:00+00:00",
+        "value": "23100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "e46bd671-6f01-4dcd-8f8a-dfeb3b401e38",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:10:00+00:00",
+        "value": "22900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "dacef8b7-628f-439a-ae7a-0d0dc7677835",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:15:00+00:00",
+        "value": "23100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "48486d8a-66c9-410d-bcd2-ad24ee164f8a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:20:00+00:00",
+        "value": "22900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "b49f9457-4ed6-492e-b185-87376e44b3cc",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:25:00+00:00",
+        "value": "22900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "e8fe7c58-13ed-4097-9be0-eaaa0627c199",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:30:00+00:00",
+        "value": "22900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "37012882-adff-4f51-8c8b-296ceaad94ce",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:35:00+00:00",
+        "value": "22800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "566d2d6d-d744-4606-9535-26715bf2fdb8",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:40:00+00:00",
+        "value": "22900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "07dea664-9ef5-4cb2-b901-77ce46a0a237",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:45:00+00:00",
+        "value": "22800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "51775e62-d7b6-4ac6-a532-556714d26304",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:50:00+00:00",
+        "value": "22900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "58fa3b04-0546-42f5-b407-96e1c911dcff",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:55:00+00:00",
+        "value": "22900",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "764a6f14-658c-4186-8b18-e2bbd0ba764e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:00:00+00:00",
+        "value": "22800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "2d063239-4761-4832-a278-9829cec27db2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:05:00+00:00",
+        "value": "22800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "ebd374de-dfd6-43d4-b041-831ca7c7a1d3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:10:00+00:00",
+        "value": "22800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "f2b86580-334e-4191-8662-bdbf8cae3a53",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:15:00+00:00",
+        "value": "22800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "01332c71-d14a-4813-94fa-50a7c241b14e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:20:00+00:00",
+        "value": "22700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "88c293b2-85f1-4ad0-9440-424ac604c4d1",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:25:00+00:00",
+        "value": "22700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "f0732d83-c0cb-4ff9-a9d1-ffee92039dc4",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:30:00+00:00",
+        "value": "22700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "5e10b050-3d83-4441-84e7-88b1813f2384",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:35:00+00:00",
+        "value": "22700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "77eb3087-affa-484a-9c8b-74cd9aedcc11",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:40:00+00:00",
+        "value": "22700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "8fd9e80d-081b-4cd0-98c0-bee9ff121abd",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:45:00+00:00",
+        "value": "22500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "fff54e34-7f42-4805-8091-3bc3c205d01a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:50:00+00:00",
+        "value": "22500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "71d52fe6-2458-4582-b1e3-424928184e9e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:55:00+00:00",
+        "value": "22800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "9568abab-7c31-4e7b-af90-1a1dd6da82c6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:00:00+00:00",
+        "value": "22800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "a5c6de53-3b45-40ea-87ce-a76eed0e6fa3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:05:00+00:00",
+        "value": "22700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "a69c6a70-a139-4fc5-beb4-cbf5acc9f85b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:10:00+00:00",
+        "value": "22800",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "4ad90866-c3df-4f3e-8c29-68d2a1247596",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:15:00+00:00",
+        "value": "22700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "42cf5cbe-4c7d-4a23-ab77-0dc04035601d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:20:00+00:00",
+        "value": "22700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "b9f71b7a-f097-4b9f-be5b-ca5c42901667",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:25:00+00:00",
+        "value": "22500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "e309d890-268f-4163-9a0a-7f356e29cc27",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:30:00+00:00",
+        "value": "22500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "89c5a4d3-27f2-4895-b27f-4126c88fbd4c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:35:00+00:00",
+        "value": "22500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "6b4da8bf-d8bb-4752-8cb1-daa81895df08",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:40:00+00:00",
+        "value": "22500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "3130e44b-29ae-4079-baef-de1e870901f3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:45:00+00:00",
+        "value": "22500",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "0993be40-410c-4867-b13d-57bdab9e9b65",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:50:00+00:00",
+        "value": "22400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "dd9c2315-1187-4086-9e1d-e22b421d96c6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:55:00+00:00",
+        "value": "22400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "b3ec4d36-4db6-47ce-8d74-a933955235fa",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:00:00+00:00",
+        "value": "22400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "48599269-9c39-4e31-b494-243c2ef365be",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:05:00+00:00",
+        "value": "22300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "3b32c9cd-f37f-46f4-8037-877a4cc3ffa3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:10:00+00:00",
+        "value": "22400",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "b79abac2-f80c-4d7e-8a28-2a95c585fd6e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:15:00+00:00",
+        "value": "22300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "7531df1d-b51e-4860-a148-df7879ffcb80",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:20:00+00:00",
+        "value": "22300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "4a3c2921-a71a-42c7-b5be-2f072265f28f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:25:00+00:00",
+        "value": "22300",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "355eda9c-dcda-437d-8ffe-ae8e69c96896",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:30:00+00:00",
+        "value": "22200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "82398768-44bb-4663-ab0e-fd9f89c9d778",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:35:00+00:00",
+        "value": "22200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "c94fc8ce-eea1-46ec-9ea3-dfb1300c77de",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:40:00+00:00",
+        "value": "22200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "d282adee-5f68-4db7-a9ad-c416a6370877",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:45:00+00:00",
+        "value": "22200",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "7d80ad5f-33d5-4b81-bc30-babcdf3f8425",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:50:00+00:00",
+        "value": "22000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "ade887bf-15b1-469d-bc29-c6d036e052d6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:55:00+00:00",
+        "value": "22000",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "fa886970-0f04-48fb-8fbf-898485e57d61",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:00:00+00:00",
+        "value": "4.38",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "d5ea68bc-2736-457c-b817-832c2c531cb3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:05:00+00:00",
+        "value": "4.38",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "a8571322-637f-4756-9054-be6cd3526995",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:10:00+00:00",
+        "value": "4.38",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "aacbba5e-550c-4168-b4c5-dccc35381949",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:15:00+00:00",
+        "value": "4.38",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "ad035d60-73f1-494c-a357-eb63a57c97f4",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:20:00+00:00",
+        "value": "4.38",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "0e14d5c5-1f7e-472b-8418-39b4c6dd9075",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:25:00+00:00",
+        "value": "4.38",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "131452fd-ed56-4244-bd90-7b0c5abc9843",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:30:00+00:00",
+        "value": "4.38",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "09d6da8a-4080-4c62-b090-cc33d8c290ca",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:35:00+00:00",
+        "value": "4.38",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "ade181fe-057a-4296-bbc2-6afb8c50998f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:40:00+00:00",
+        "value": "4.38",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "8bd227a4-42da-430d-9169-6980c7b80fe7",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:45:00+00:00",
+        "value": "4.39",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "a53e1855-c689-4f79-a85c-2d9236ec224b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:50:00+00:00",
+        "value": "4.39",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "8b0d2101-cdae-4359-b037-187be45ab6e8",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T00:55:00+00:00",
+        "value": "4.39",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "1db22444-7c93-4efc-9528-e643e297be15",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:00:00+00:00",
+        "value": "4.39",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "fed7516d-fdf2-4761-ab57-5b7ea3be7116",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:05:00+00:00",
+        "value": "4.39",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "8356edbb-9be0-4a10-955e-475d17059b7e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:10:00+00:00",
+        "value": "4.39",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "ac8f4e93-c88c-40f5-a3c6-843b8dba1438",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:15:00+00:00",
+        "value": "4.39",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "b6b8d805-73cb-42f2-8463-f6cec3790050",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:20:00+00:00",
+        "value": "4.40",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "b7bb162d-85df-4e0b-9459-31227413ad00",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:25:00+00:00",
+        "value": "4.40",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "cde333ea-f74a-4ebf-9ba4-a0b0495c171b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:30:00+00:00",
+        "value": "4.40",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "179dcdf0-24e9-46cd-a8d3-80074ddd33bb",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:35:00+00:00",
+        "value": "4.40",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "90811364-bb77-4685-a005-0ce6f497e005",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:40:00+00:00",
+        "value": "4.41",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "d8c1779e-64ff-4e5d-8b7b-339f5f055ea4",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:45:00+00:00",
+        "value": "4.40",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c05264ea-1354-4f90-b3ad-72c79d58cff8",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:50:00+00:00",
+        "value": "4.41",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c2c39801-4c97-4a20-846c-738860063453",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T01:55:00+00:00",
+        "value": "4.41",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "1d0e86d8-7d50-4d0c-b9f1-d9a6afe00ada",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:00:00+00:00",
+        "value": "4.42",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "16677379-2805-4be5-936b-028a553b4c26",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:05:00+00:00",
+        "value": "4.42",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "850d56d7-6a68-4c97-93a1-19838065ec98",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:10:00+00:00",
+        "value": "4.42",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "74b36185-097b-45c4-bc89-cf64ebd972fa",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:15:00+00:00",
+        "value": "4.42",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "07d74138-1403-429d-8f4b-c036219c3dff",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:20:00+00:00",
+        "value": "4.43",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "95a9847a-b0f4-489a-b76e-4fb70db09222",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:25:00+00:00",
+        "value": "4.43",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "7eb2aa37-b2f8-4401-bf9b-f7841d2b330b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:30:00+00:00",
+        "value": "4.43",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "324637c6-0d77-4d44-a3d6-07720c8f7457",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:35:00+00:00",
+        "value": "4.43",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "9011e2e3-14ca-4c33-b1b8-43946697bc4e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:40:00+00:00",
+        "value": "4.44",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "fea249a5-15b5-4c08-9a51-018772347395",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:45:00+00:00",
+        "value": "4.43",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "0ff71cf9-3719-4177-8b43-975acfd1a572",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:50:00+00:00",
+        "value": "4.44",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "5061192d-b22f-4acf-ac43-254b62ee3515",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T02:55:00+00:00",
+        "value": "4.45",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "33a80c37-b1c9-4b8c-bdf0-7831ac15a30e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:00:00+00:00",
+        "value": "4.45",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "d3e7bcfb-1c11-4336-ae38-a0a63a1e8d75",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:05:00+00:00",
+        "value": "4.45",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c50d24e0-b448-4e26-b729-a1e5373ac71d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:10:00+00:00",
+        "value": "4.46",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "d77db5b9-6aac-4195-a88e-9f80421788dc",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:15:00+00:00",
+        "value": "4.46",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "2e552610-f955-4791-9a06-09917b9bf60b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:20:00+00:00",
+        "value": "4.47",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "30ae80bd-a1f4-43ef-80d0-d155c9798a54",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:25:00+00:00",
+        "value": "4.47",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "0133f2bf-aff3-4cd9-8b80-af8e0b437baf",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:30:00+00:00",
+        "value": "4.48",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "48b19453-813a-400a-b601-16cd29601084",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:35:00+00:00",
+        "value": "4.49",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "08170cdb-3080-42f7-ab73-62411f0e5a77",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:40:00+00:00",
+        "value": "4.49",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "3d1949ec-ecea-4afe-bfa4-e51be26805ca",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:45:00+00:00",
+        "value": "4.49",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "a04b0d34-5e57-4430-825b-2550a93635a2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:50:00+00:00",
+        "value": "4.51",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "33557e92-d5c8-4750-b6ab-304b8cf2c3ab",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T03:55:00+00:00",
+        "value": "4.50",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "ebd0ee78-2d31-4977-9fa6-56e7fe142e7d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:00:00+00:00",
+        "value": "4.51",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "f5f232c6-4c30-479b-9982-b0db9ed2a817",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:05:00+00:00",
+        "value": "4.51",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c696b4a5-18c9-452a-ab3b-896028788b74",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:10:00+00:00",
+        "value": "4.52",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "e52e1122-ac70-418d-aea1-31d9a277ba07",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:15:00+00:00",
+        "value": "4.53",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "e35fa541-39b5-4f5a-bded-ebba7a10f12f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:20:00+00:00",
+        "value": "4.54",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "143d5a83-b453-438b-9e6d-1b5dacc9f4c1",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:25:00+00:00",
+        "value": "4.54",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "82fc5ba3-235d-44f0-9fd3-47a8a6273b60",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:30:00+00:00",
+        "value": "4.55",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "cef0d5e6-8575-4770-94ec-4e6d31cd666e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:35:00+00:00",
+        "value": "4.56",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "041f55f8-7e9b-438c-9b39-f25c7ccdf2e3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:40:00+00:00",
+        "value": "4.56",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "d87aae2b-c0c5-4e6f-b207-b8dab666b63e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:45:00+00:00",
+        "value": "4.57",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "d5bea94b-651f-4ed4-a1a9-e06cceb44dab",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:50:00+00:00",
+        "value": "4.58",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "948c5fee-7409-4398-8b6a-889e0f9fb8ca",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T04:55:00+00:00",
+        "value": "4.59",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "5e84c305-fb6c-4c2b-8ed3-72edf9361474",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:00:00+00:00",
+        "value": "4.60",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "4b2b6be9-95bd-4269-9d6b-7d68cd83cbfa",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:05:00+00:00",
+        "value": "4.61",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "b6a43191-f802-48b8-8984-b014792dbdb4",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:10:00+00:00",
+        "value": "4.61",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "0eff5ef6-c165-4133-8713-84cdd1c312bf",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:15:00+00:00",
+        "value": "4.62",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "06eb3124-9993-4830-aabc-4405de2d594f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:20:00+00:00",
+        "value": "4.64",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "e17b2da9-68b9-4f1e-b42d-886f68a99f79",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:25:00+00:00",
+        "value": "4.64",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "fea7e1f6-a487-4e1b-a646-923fd8765d48",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:30:00+00:00",
+        "value": "4.65",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "4cde0432-eb9b-4871-9403-4f22ad75ba62",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:35:00+00:00",
+        "value": "4.65",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "04cb1f6a-1680-43b1-a2d6-9667edb00986",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:40:00+00:00",
+        "value": "4.67",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c42dacdc-903d-4ce1-876f-15eea8a1beb2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:45:00+00:00",
+        "value": "4.68",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "296a4f12-5597-45d2-8469-175ec7643345",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:50:00+00:00",
+        "value": "4.69",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "ad91eb7c-d39b-4dc8-bfaf-9aa12bf123de",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T05:55:00+00:00",
+        "value": "4.70",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "de0608ce-925f-4019-ba0e-9c5105c4512c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:00:00+00:00",
+        "value": "4.71",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "94196d70-960d-4e5d-813b-9ccaf491aff9",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:05:00+00:00",
+        "value": "4.72",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "698275e6-9216-4c3d-98d8-cfd73e0798c8",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:10:00+00:00",
+        "value": "4.73",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c9d49d39-28ad-4ed3-8422-109ae625ef70",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:15:00+00:00",
+        "value": "4.74",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "1e1e0632-cfb1-40c5-8a33-bb06b981ebb6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:20:00+00:00",
+        "value": "4.75",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "4d9c4377-c33d-4807-86c6-a5198df744d4",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:25:00+00:00",
+        "value": "4.75",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "53976944-0cd2-4574-8e35-fda7f3151f3f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:30:00+00:00",
+        "value": "4.77",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "b0f0e878-a018-4324-9eb3-d720fa1ca377",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:35:00+00:00",
+        "value": "4.77",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "e1adc64b-aadb-4f73-9275-e6e3324102f5",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:40:00+00:00",
+        "value": "4.79",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "dfb8c6bd-5055-46be-bd59-4271106a80fc",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:45:00+00:00",
+        "value": "4.79",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "ba494a4b-a0ff-4aff-bf4a-8cbefa67081f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:50:00+00:00",
+        "value": "4.80",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c6e83ab3-3e06-4cbc-b0ae-ea79345a7dd1",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T06:55:00+00:00",
+        "value": "4.81",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "3e37efbe-2fa8-4763-965d-3b54f60704b9",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:00:00+00:00",
+        "value": "4.83",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "6dd9e840-47c4-46b0-ae8f-cdc9501f93c0",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:05:00+00:00",
+        "value": "4.83",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "1faa4025-2404-49ef-924d-80f72d5251f3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:10:00+00:00",
+        "value": "4.84",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "69e24907-93fe-4e1f-8733-298ee810ea25",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:15:00+00:00",
+        "value": "4.86",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "7788e338-0520-443d-b344-63687d183fa8",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:20:00+00:00",
+        "value": "4.86",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "203ea088-0a6a-4b47-a4cc-4c25ccd3ba86",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:25:00+00:00",
+        "value": "4.88",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "5f25ec8b-5767-459d-95d9-2504ec98e2ae",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:30:00+00:00",
+        "value": "4.88",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c21c7c3a-9884-43bf-baa0-a26ea8095f64",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:35:00+00:00",
+        "value": "4.89",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "6d56841f-e095-428a-a633-6e44300952df",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:40:00+00:00",
+        "value": "4.90",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "7324b56c-5862-454e-953f-b65875448a51",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:45:00+00:00",
+        "value": "4.91",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "144358ec-37c5-4946-b215-55ff5cd004bd",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:50:00+00:00",
+        "value": "4.92",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c900f981-cfaa-4c3e-9e97-4e0b21e38b14",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T07:55:00+00:00",
+        "value": "4.93",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "f7036d50-a4aa-435f-aa5c-aecc68753a1c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:00:00+00:00",
+        "value": "4.94",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "e474bc21-e478-4af9-b1b0-1942d40bf6b4",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:05:00+00:00",
+        "value": "4.94",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "05125417-a502-4bde-bc91-b7d92cd288cd",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:10:00+00:00",
+        "value": "4.95",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "cfb27e53-e6e6-46de-8a9a-cc02f949ee97",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:15:00+00:00",
+        "value": "4.97",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "9b496f40-daa6-457d-8e18-e530713a0d87",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:20:00+00:00",
+        "value": "4.98",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "f2ead9d5-4460-4b4c-9b39-12163b11f42f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:25:00+00:00",
+        "value": "4.98",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "8ee3e1cd-5af7-40d4-86e6-973ec3ffdd9b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:30:00+00:00",
+        "value": "4.99",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "fa5a121f-d311-4272-a712-659d67c402d8",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:35:00+00:00",
+        "value": "4.99",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "ae092f94-9d57-4b8f-814b-a72e9f7b2506",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:40:00+00:00",
+        "value": "5.00",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "5441efbe-9c5c-4910-82a0-0c9f5622120a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:45:00+00:00",
+        "value": "5.01",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "b6c9cd47-080f-4420-932e-534d3d4651f9",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:50:00+00:00",
+        "value": "5.02",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "bc51b22e-277d-4114-9a9f-d4f643937ec2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T08:55:00+00:00",
+        "value": "5.03",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "fb698d75-8351-434e-aa27-7e628f154444",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:00:00+00:00",
+        "value": "5.03",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c9cb469a-58d2-45ea-9bae-c9fcc4cb8099",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:05:00+00:00",
+        "value": "5.05",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "340a454c-4036-4328-8f49-69154769fee8",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:10:00+00:00",
+        "value": "5.05",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "6f981506-f104-47c0-8615-ac2f5a269e51",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:15:00+00:00",
+        "value": "5.05",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c574d307-6e2b-4d20-b916-82ed6df21bf5",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:20:00+00:00",
+        "value": "5.07",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "dc228194-4af8-465f-b097-827ab29d82bf",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:25:00+00:00",
+        "value": "5.07",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "d2be9cb5-131f-45db-8831-9c218977ccc3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:30:00+00:00",
+        "value": "5.08",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "d7ce2e70-6ced-40bf-b751-ef71c2d586e7",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:35:00+00:00",
+        "value": "5.09",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "9f0d2b1f-d325-4ca3-99ec-0e496e1949ed",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:40:00+00:00",
+        "value": "5.09",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "be990271-6b95-4432-8ec8-bc9beb543ed0",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:45:00+00:00",
+        "value": "5.10",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "61ff9946-c193-4fb8-9bb7-d55bbcaa7963",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:50:00+00:00",
+        "value": "5.10",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "093782f9-7b86-4002-afe9-095874b02c0b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T09:55:00+00:00",
+        "value": "5.11",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "105d922d-12a6-44c5-a3f1-f003b81428b3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:00:00+00:00",
+        "value": "5.11",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "335bf54f-9a2d-4ac0-b4f0-c11b59c282bb",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:05:00+00:00",
+        "value": "5.12",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "0b53ff98-91a3-4e8f-8bfd-78f9d8d02a22",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:10:00+00:00",
+        "value": "5.13",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "49e4d2d0-258f-4e4c-bc8c-b2e869de904d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:15:00+00:00",
+        "value": "5.12",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "1f6d141f-428c-41d5-a85d-3b20e4e2e3cc",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:20:00+00:00",
+        "value": "5.13",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "ee7f93e7-6c1d-422a-b746-6ea35469fe47",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:25:00+00:00",
+        "value": "5.13",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "ee98899e-75eb-4f65-a9f6-e876f090fdbd",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:30:00+00:00",
+        "value": "5.14",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "0a34919a-8c29-4c8d-a37d-758a8c547c8d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:35:00+00:00",
+        "value": "5.15",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "640a44bc-f846-4626-977e-9c414de10ca0",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:40:00+00:00",
+        "value": "5.15",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c8f7c7b8-654b-4060-9b14-3c9b431c7207",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:45:00+00:00",
+        "value": "5.16",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "6c72bf83-35b7-4fa6-8c1e-72e2f3d8aefb",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:50:00+00:00",
+        "value": "5.16",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "03c6ca2f-7e2f-4378-965d-dc4c95eb3716",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T10:55:00+00:00",
+        "value": "5.16",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "d62ece90-92a8-4e8d-8dac-a17e5f54728f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:00:00+00:00",
+        "value": "5.17",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "966d06bc-0c15-4dc8-bcda-a00e27513456",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:05:00+00:00",
+        "value": "5.18",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "e1366fbb-2e00-4a93-97c7-31b109652d23",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:10:00+00:00",
+        "value": "5.19",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "762e2450-9031-4710-9a6d-c1db32aa6ed0",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:15:00+00:00",
+        "value": "5.18",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "9c908871-f73a-4a11-9c62-910f8e0f1d8a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:20:00+00:00",
+        "value": "5.20",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "e49cb22a-a1ab-409b-b2f2-5c88ca0c8c29",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:25:00+00:00",
+        "value": "5.20",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "6c7b439d-bc7a-4e69-957a-39c56ec806a3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:30:00+00:00",
+        "value": "5.20",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "3f19e80a-ab51-4762-a760-aca9bc312f3b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:35:00+00:00",
+        "value": "5.21",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "26dc1c27-3c15-4db1-9a2a-3c68b0ff12a8",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:40:00+00:00",
+        "value": "5.21",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "2602389c-c692-4a7f-b7a9-9abe2d204978",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:45:00+00:00",
+        "value": "5.22",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "dcb77293-787d-43ab-bbf9-a30220853762",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:50:00+00:00",
+        "value": "5.21",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "4e412e2a-24ce-495b-a7a7-f4b191a2dea7",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T11:55:00+00:00",
+        "value": "5.22",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "0f05081a-48b3-4292-8e64-d859cf1b6618",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:00:00+00:00",
+        "value": "5.22",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "4a7f8a49-7dfe-4fdc-8b15-c2bbd145c1de",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:05:00+00:00",
+        "value": "5.22",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "759464ec-52b3-4c01-adaa-d21fe96c17a4",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:10:00+00:00",
+        "value": "5.23",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "9f9ccc1b-6870-43de-abe0-7e28393a3dd9",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:15:00+00:00",
+        "value": "5.23",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "95ecbcc2-9494-44b9-af7a-57096376e82d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:20:00+00:00",
+        "value": "5.23",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "3c1ff3dd-0073-45fc-89d3-934fb5ae8411",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:25:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "f23cc0a0-23f3-4ed4-8215-8738eaad5835",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:30:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "489339fc-71c6-40ad-ac64-8875185d67be",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:35:00+00:00",
+        "value": "5.23",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "aa09958e-754f-4841-ae5d-acfe2c4405b7",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:40:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "66f3a922-6671-4713-9fb7-a993579339a6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:45:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "4b117925-d174-4512-ae90-27bebf78eb64",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:50:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "5fb6c406-06ae-4016-9a4f-5921aa1d624d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T12:55:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "16acb3ba-d6cc-43d3-a8f1-41c4c4814e33",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:00:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "7a021686-b6e5-4e69-b5ed-4b2114687239",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:05:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "7f8c88b1-29c2-4fba-a601-96d7ca2cccc6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:10:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "6c764f24-892d-4aff-897c-a208f8c87ee2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:15:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "28f8676d-6ec0-4e32-a7fe-d863f9141ac5",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:20:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "34688188-10d4-4cb1-8752-f7d5d7dbc30c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:25:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "83168f0d-c872-489c-bd1a-e4aba6fa4066",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:30:00+00:00",
+        "value": "5.23",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "d8a9b85d-9bf6-45ba-a1e4-38986aeb6621",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:35:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "4ad2910f-e2a4-46d6-bcfb-568b7ec7520f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:40:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "29f2b085-6f31-4641-b2ff-f1e737484dfd",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:45:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "843751d8-c48b-4240-8708-dda593e33da8",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:50:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "b2ab66e5-d5d7-4093-aee3-b1e8bf2c721e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T13:55:00+00:00",
+        "value": "5.23",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "5a00cb01-0a19-4b4d-b854-babaf0223608",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:00:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "7c9b684e-2a09-4e49-946e-979c52181a8c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:05:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "80ed55df-ff5a-43f1-9b11-1e329306617d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:10:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "3f3b4936-aa9b-427e-b3d3-7097aa80b510",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:15:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "2b8e4ff5-1ebc-457a-878e-2b768e13e865",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:20:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "4773576e-e430-4083-99d7-945c8adccfbd",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:25:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "34607007-00c8-457b-a96c-21209de84c0d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:30:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "595d28d8-6cca-4cb4-91fb-61c250686093",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:35:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c4680076-be4f-4e86-813f-10732158b878",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:40:00+00:00",
+        "value": "5.24",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "18b71adf-c37e-4108-859d-8d4961620474",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:45:00+00:00",
+        "value": "5.26",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "6558f13d-7b39-427c-b380-b37b6d2d8ff3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:50:00+00:00",
+        "value": "5.26",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "d42e943d-200e-429d-b009-09908ed565a3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T14:55:00+00:00",
+        "value": "5.26",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "afb1a9be-738f-4a60-9711-ceb2df7c0916",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:00:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "7a462671-703a-41e7-89e1-17c03a25fcb1",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:05:00+00:00",
+        "value": "5.26",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "572cded4-6b90-42e0-9d1b-22888552ff67",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:10:00+00:00",
+        "value": "5.26",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c8760a3e-51cc-47f2-8b3a-1d6ba6bd70f8",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:15:00+00:00",
+        "value": "5.26",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "7cf8a13f-d2e6-4263-9692-9e65e14b8b3e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:20:00+00:00",
+        "value": "5.26",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "10622b74-6e05-4a11-b0c7-520da9d65dc3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:25:00+00:00",
+        "value": "5.26",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "837f9146-ff71-4ab6-8aef-3569f6fbe010",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:30:00+00:00",
+        "value": "5.26",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "10f0d473-d5f7-4628-ad9a-2cff8a451869",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:35:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "0f002161-59ad-4269-b04a-c1f156b56401",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:40:00+00:00",
+        "value": "5.26",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "4fbf5b75-7178-445b-826e-7477c2df38ea",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:45:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "98808d15-5948-47e5-8bf5-4d185330fe3e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:50:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "4f2b0d59-c57a-46df-bfa8-7fa1c773dd68",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T15:55:00+00:00",
+        "value": "5.26",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "a8f87dae-adf1-4241-87f8-1d6912010b48",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:00:00+00:00",
+        "value": "5.26",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "dd9618b9-5e7b-4892-b3f5-8351caabf000",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:05:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "1c1e12ec-92ee-481d-9591-317689bcaad0",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:10:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "65703479-0800-4a2c-8201-58054b94886e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:15:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "b7419661-992c-400e-8df6-8c946f087f06",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:20:00+00:00",
+        "value": "5.26",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "48031dd4-38b9-49c8-af70-f25e555075b3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:25:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "e5ef6bed-f066-4385-8ad0-4246ec1b49ae",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:30:00+00:00",
+        "value": "5.25",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "08fd04dc-87c9-4468-b3de-37a2bc780453",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:35:00+00:00",
+        "value": "5.23",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "fd95ae30-7212-4c47-823a-bbeb553f174c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:40:00+00:00",
+        "value": "5.23",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "e0142aaf-9102-47d8-a9ca-9e0e27cab7c0",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:45:00+00:00",
+        "value": "5.23",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "0d130568-c8ec-40e7-8926-44f917b54e1d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:50:00+00:00",
+        "value": "5.23",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "aebf9075-57ef-41ca-98b2-67905dd19e3c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T16:55:00+00:00",
+        "value": "5.22",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "692c9011-d93f-42a2-b883-d48bbb98befd",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:00:00+00:00",
+        "value": "5.22",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "e91b0d6f-9c3a-47ee-8817-296ff40705f6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:05:00+00:00",
+        "value": "5.22",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "3deab854-ddb1-46fa-bbb7-3654dfd27943",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:10:00+00:00",
+        "value": "5.22",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "8f1bb966-aff4-4958-9e2e-c30e764bad1e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:15:00+00:00",
+        "value": "5.22",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "5fe46dfc-275a-4aa9-b523-18c265cfb2ab",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:20:00+00:00",
+        "value": "5.22",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "4f204aee-c9bc-44c2-bf51-e89c3170960b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:25:00+00:00",
+        "value": "5.21",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "ae17011f-5634-4ac7-a25b-54602cb7074c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:30:00+00:00",
+        "value": "5.21",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "7030a42a-aeca-4be4-8a09-378f25898389",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:35:00+00:00",
+        "value": "5.21",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "2e57b527-50bd-4768-b9f0-0bc3e45f6f16",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:40:00+00:00",
+        "value": "5.21",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "90f3979f-2744-4a6f-ae46-6afa4e2bac44",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:45:00+00:00",
+        "value": "5.21",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "f46cbdec-af7d-4fdd-b59e-91e13a56aae9",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:50:00+00:00",
+        "value": "5.21",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "d0d9bc7f-ebb4-4120-a31e-dc31f5459d99",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T17:55:00+00:00",
+        "value": "5.21",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "5d494d01-fa60-4466-b7bd-fa6341de505b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:00:00+00:00",
+        "value": "5.20",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "d2f6dc22-984a-477b-bb29-43fbcada7ef8",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:05:00+00:00",
+        "value": "5.21",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "81a3cf2a-b854-44f5-a9df-d73aeb7fbc25",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:10:00+00:00",
+        "value": "5.20",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "154f5bcd-ba7d-4772-873e-b440372ae384",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:15:00+00:00",
+        "value": "5.20",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "f9fc2118-f3e8-49df-9396-62700014578f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:20:00+00:00",
+        "value": "5.20",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c49389e7-0fce-4c0b-8f24-7273bb17618a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:25:00+00:00",
+        "value": "5.20",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "0756d38c-4110-4cb9-ab6c-262cce95619c",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:30:00+00:00",
+        "value": "5.20",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "139fe31d-c5a2-4038-a388-8dc75376cab9",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:35:00+00:00",
+        "value": "5.19",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "ba62267d-096a-4ebb-a230-98ebc27dba01",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:40:00+00:00",
+        "value": "5.19",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "9c9ca5e9-e68a-4f3f-b432-115ae40f3386",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:45:00+00:00",
+        "value": "5.20",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "033cbbb5-832c-4a39-bffb-4ed65703bf21",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:50:00+00:00",
+        "value": "5.19",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "70226292-fb81-453c-938b-51c44ab427c0",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T18:55:00+00:00",
+        "value": "5.19",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "5afda846-9938-479e-bf50-353f89f0491a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:00:00+00:00",
+        "value": "5.19",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "b02cb28e-63cd-4750-aab5-d4ff22f9dc64",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:05:00+00:00",
+        "value": "5.18",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "41179eb6-097e-43f5-b9a6-5225fcfca0be",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:10:00+00:00",
+        "value": "5.18",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "dd7f44bd-8adc-4d1a-8c77-1142bd09bcc1",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:15:00+00:00",
+        "value": "5.18",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "a4ae25c9-01e4-4133-a372-570a4441b7c5",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:20:00+00:00",
+        "value": "5.18",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "4d926d9b-5cdd-4a69-a4c4-594a0264caad",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:25:00+00:00",
+        "value": "5.18",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "2d69760d-4b7f-41a4-92d7-ce252f4c1de1",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:30:00+00:00",
+        "value": "5.17",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "8ee4adc4-b8f4-460e-959f-9d5b5cfe360a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:35:00+00:00",
+        "value": "5.17",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "1c65bef5-2204-454a-8774-dc9fe15f381f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:40:00+00:00",
+        "value": "5.17",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "894cc9e1-e797-425d-9419-fcf556c18667",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:45:00+00:00",
+        "value": "5.17",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "1c26a40b-648c-4d68-9682-9336568814b4",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:50:00+00:00",
+        "value": "5.17",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "051e08cd-1874-4278-b50e-f6b2337d18e5",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T19:55:00+00:00",
+        "value": "5.17",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "9a4159a6-9d98-4daf-bbbc-1fd60d289c5a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:00:00+00:00",
+        "value": "5.16",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "ea660b07-f04c-4b49-9e4b-1652d5f5afad",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:05:00+00:00",
+        "value": "5.16",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "7191d253-7778-4a5a-811d-9d6bce09ff60",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:10:00+00:00",
+        "value": "5.15",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "1cc44457-1124-46a6-b6c9-5629172d7d1d",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:15:00+00:00",
+        "value": "5.16",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "54c6e46a-94a6-45d3-8bcc-94426b2892ac",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:20:00+00:00",
+        "value": "5.15",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "9b562903-5663-4d0f-b677-af7801f1ae7b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:25:00+00:00",
+        "value": "5.15",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "ae18b221-dcb1-4eb2-a98e-a4f4c27658e6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:30:00+00:00",
+        "value": "5.15",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "59123ce1-4ce5-4b94-8a25-59c227bb20e1",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:35:00+00:00",
+        "value": "5.14",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "4d028ace-3fd3-4015-bf77-b4cc89683ea8",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:40:00+00:00",
+        "value": "5.15",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "03882307-3378-43fc-9657-c664cf1392fa",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:45:00+00:00",
+        "value": "5.14",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "434d966b-bc49-42a7-b33b-e63a75adbcd8",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:50:00+00:00",
+        "value": "5.15",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "e19644bd-822a-4eab-8f24-bd344c27b029",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T20:55:00+00:00",
+        "value": "5.15",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "2ff2f1fb-5161-4e0f-a3f6-88d0de31338e",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:00:00+00:00",
+        "value": "5.14",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "c48458b7-db45-49ad-900b-1db5abb794f8",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:05:00+00:00",
+        "value": "5.14",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "cbe721c8-480e-4e90-b3a0-861baf1bc838",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:10:00+00:00",
+        "value": "5.14",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "da12c072-efe8-47c4-9acb-65c5ced9c6ae",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:15:00+00:00",
+        "value": "5.14",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "0819b44c-14cf-49ef-b28f-6f9968de2052",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:20:00+00:00",
+        "value": "5.13",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "e0930596-1a75-4d18-8b25-0c3be7428c88",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:25:00+00:00",
+        "value": "5.13",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "3249e0af-e894-404d-aaf2-8a98d7090498",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:30:00+00:00",
+        "value": "5.13",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "7325c49e-ada4-4d3a-85be-caabf026b3c2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:35:00+00:00",
+        "value": "5.13",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "f1aa80a0-4d72-41d3-ac34-ef618f27b1a5",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:40:00+00:00",
+        "value": "5.13",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "33254f3b-cc5d-4abc-b726-334b1fe7a625",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:45:00+00:00",
+        "value": "5.12",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "f242c03e-df98-4c37-ad83-923631cabb51",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:50:00+00:00",
+        "value": "5.12",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "65b3780e-5b61-4366-94eb-dbeee411ddd2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T21:55:00+00:00",
+        "value": "5.14",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "09dd84f3-573d-43fe-8bc5-0f68ac51fa79",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:00:00+00:00",
+        "value": "5.14",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "74cd881e-6549-4144-aa4c-00ce7980fa4f",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:05:00+00:00",
+        "value": "5.13",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "49f5489a-97e6-434f-bc82-1c7c84a54722",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:10:00+00:00",
+        "value": "5.14",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "55ef6485-a6e7-429a-86e8-20794d2bee48",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:15:00+00:00",
+        "value": "5.13",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "ba20beed-92f0-4cd8-b22b-c52057b2e744",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:20:00+00:00",
+        "value": "5.13",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "4223cc16-1dec-4591-8b58-7c4df5bbfb57",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:25:00+00:00",
+        "value": "5.12",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "41121c5e-cd8e-4f0c-9b47-b14f79098ed0",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:30:00+00:00",
+        "value": "5.12",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "a30dc58e-fba3-416c-ad63-32c4ed0afac3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:35:00+00:00",
+        "value": "5.12",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "0efd06d0-372c-4e6b-84ad-2111d0ab0c33",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:40:00+00:00",
+        "value": "5.12",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "93d99f28-6e8b-404c-9713-94ad544ffa14",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:45:00+00:00",
+        "value": "5.12",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "08d6a79c-7af3-47b5-8083-f7f84e782ad2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:50:00+00:00",
+        "value": "5.11",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "a87ee45e-0766-499e-b57f-d7001e28131a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T22:55:00+00:00",
+        "value": "5.11",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "62c57bd8-b2a0-41e6-82b4-72f241550528",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:00:00+00:00",
+        "value": "5.11",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "458d254d-49fa-4035-a068-0f7ae1d9a09a",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:05:00+00:00",
+        "value": "5.10",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "81045351-9afb-40b5-ab9d-b03e04b47bd3",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:10:00+00:00",
+        "value": "5.11",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "71ae98c4-33ed-416d-9e36-bed5e87599f2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:15:00+00:00",
+        "value": "5.10",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "b26f9154-f078-46f8-b7db-8772a65c4852",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:20:00+00:00",
+        "value": "5.10",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "bfbf46d3-9099-4db2-a627-53d12b8d6bea",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:25:00+00:00",
+        "value": "5.10",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "d084cba1-7c5f-40ee-8683-468bf9b0a25b",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:30:00+00:00",
+        "value": "5.09",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "a726690e-745f-49fb-97b9-18c89b91a073",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:35:00+00:00",
+        "value": "5.09",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "e3c62ecd-87c8-415b-a33f-541a131865db",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:40:00+00:00",
+        "value": "5.09",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "a7474e45-41fd-480c-bacf-3c8318cfa6a6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:45:00+00:00",
+        "value": "5.09",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "415f2a35-6e85-4d5f-824e-1bd343e681f6",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:50:00+00:00",
+        "value": "5.08",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "f3d76977-7fe6-47cb-a60d-6c11346075a1",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-14T23:55:00+00:00",
+        "value": "5.08",
+        "parameter_code": "00065",
+        "unit_of_measure": "ft"
+      },
+      "id": "0e5a973b-01d9-486d-b390-db3a05b87999",
+      "geometry": null
+    }
+  ],
+  "numberReturned": 576,
+  "links": [
+    {
+      "type": "application/geo+json",
+      "rel": "self",
+      "title": "This document as GeoJSON",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/continuous/items?f=json&monitoring_location_id=USGS-01646500&parameter_code=00060,00065&datetime=2026-10-14T00%3A00%3A00Z%2F2026-10-14T23%3A59%3A59Z&limit=50000&skipGeometry=true&properties=time,value,parameter_code,unit_of_measure"
+    },
+    {
+      "rel": "alternate",
+      "type": "application/ld+json",
+      "title": "This document as RDF (JSON-LD)",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/continuous/items?f=jsonld&monitoring_location_id=USGS-01646500&parameter_code=00060,00065&datetime=2026-10-14T00%3A00%3A00Z%2F2026-10-14T23%3A59%3A59Z&limit=50000&skipGeometry=true&properties=time,value,parameter_code,unit_of_measure"
+    },
+    {
+      "type": "text/html",
+      "rel": "alternate",
+      "title": "This document as HTML",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/continuous/items?f=html&monitoring_location_id=USGS-01646500&parameter_code=00060,00065&datetime=2026-10-14T00%3A00%3A00Z%2F2026-10-14T23%3A59%3A59Z&limit=50000&skipGeometry=true&properties=time,value,parameter_code,unit_of_measure"
+    },
+    {
+      "type": "text/csv; charset=utf-8",
+      "rel": "alternate",
+      "title": "This document as CSV",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/continuous/items?f=csv&monitoring_location_id=USGS-01646500&parameter_code=00060,00065&datetime=2026-10-14T00%3A00%3A00Z%2F2026-10-14T23%3A59%3A59Z&limit=50000&skipGeometry=true&properties=time,value,parameter_code,unit_of_measure"
+    },
+    {
+      "type": "application/json",
+      "title": "Continuous values",
+      "rel": "collection",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/continuous"
+    }
+  ],
+  "timeStamp": "2026-10-15T13:44:07.249969Z"
+}

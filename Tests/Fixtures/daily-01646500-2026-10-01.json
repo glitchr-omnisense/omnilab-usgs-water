@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-04",
+        "value": "2100",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "0a66cde2-4076-465f-89f2-5ed3bf4a19b1",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-01",
+        "value": "2650",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "1d9ddcf3-3af6-472e-acc0-04b293992fef",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-02",
+        "value": "2230",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "526258b7-a807-46ad-a4ff-2d34f488d492",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-05",
+        "value": "1810",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "56f78472-c7ca-4679-9b2c-157f1cf2a4ce",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-07",
+        "value": "1610",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "64c471da-4824-418d-98c1-7c1ff55f82a2",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-06",
+        "value": "1700",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "cd4a8e0c-e03a-4755-9051-df2813291f19",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2026-10-03",
+        "value": "2230",
+        "parameter_code": "00060",
+        "unit_of_measure": "ft^3/s"
+      },
+      "id": "ef16ce9b-6463-4f72-aa28-5e0df96ca098",
+      "geometry": null
+    }
+  ],
+  "numberReturned": 7,
+  "links": [
+    {
+      "type": "application/geo+json",
+      "rel": "self",
+      "title": "This document as GeoJSON",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/daily/items?f=json&monitoring_location_id=USGS-01646500&parameter_code=00060&statistic_id=00003&datetime=2026-10-01%2F2026-10-07&limit=50000&skipGeometry=true&properties=time,value,parameter_code,unit_of_measure"
+    },
+    {
+      "rel": "alternate",
+      "type": "application/ld+json",
+      "title": "This document as RDF (JSON-LD)",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/daily/items?f=jsonld&monitoring_location_id=USGS-01646500&parameter_code=00060&statistic_id=00003&datetime=2026-10-01%2F2026-10-07&limit=50000&skipGeometry=true&properties=time,value,parameter_code,unit_of_measure"
+    },
+    {
+      "type": "text/html",
+      "rel": "alternate",
+      "title": "This document as HTML",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/daily/items?f=html&monitoring_location_id=USGS-01646500&parameter_code=00060&statistic_id=00003&datetime=2026-10-01%2F2026-10-07&limit=50000&skipGeometry=true&properties=time,value,parameter_code,unit_of_measure"
+    },
+    {
+      "type": "text/csv; charset=utf-8",
+      "rel": "alternate",
+      "title": "This document as CSV",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/daily/items?f=csv&monitoring_location_id=USGS-01646500&parameter_code=00060&statistic_id=00003&datetime=2026-10-01%2F2026-10-07&limit=50000&skipGeometry=true&properties=time,value,parameter_code,unit_of_measure"
+    },
+    {
+      "type": "application/json",
+      "title": "Daily values",
+      "rel": "collection",
+      "href": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/daily"
+    }
+  ],
+  "timeStamp": "2026-10-15T13:44:07.899470Z"
+}
