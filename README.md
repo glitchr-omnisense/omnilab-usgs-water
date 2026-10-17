@@ -1,6 +1,6 @@
 # omnilab/usgs-water
 
-The USGS's water data for [glitchr/omnilab](https://github.com/glitchr-studio/omnilab), through the
+The USGS's water data for [omniscient/omnilab](https://github.com/glitchr-studio/omnilab), through the
 Water Data OGC APIs (`api.waterdata.usgs.gov/ogcapi/v1`), which replace the WaterServices
 (`waterservices.usgs.gov`, shut down on 2027-02-22): the series of a monitoring location -
 streamflow, gage height, water temperature, any parameter by its USGS code - as recorded (every 5
