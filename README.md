@@ -1,6 +1,6 @@
 # omnilab/usgs-water
 
-The USGS's water data for [omniscient/omnilab](https://github.com/glitchr-studio/omnilab), through the
+The USGS's water data for [omnisense/omnilab](https://github.com/glitchr-omnisense/omnilab), through the
 Water Data OGC APIs (`api.waterdata.usgs.gov/ogcapi/v1`), which replace the WaterServices
 (`waterservices.usgs.gov`, shut down on 2027-02-22): the series of a monitoring location -
 streamflow, gage height, water temperature, any parameter by its USGS code - as recorded (every 5
@@ -40,7 +40,7 @@ omnilab:
                 radius_km: 25                  # how far from a Point the nearest location is looked for
 ```
 
-The earthquakes of the USGS are [omnilab/usgs](https://github.com/glitchr-studio/omnilab-usgs).
+The earthquakes of the USGS are [omnilab/usgs](https://github.com/glitchr-omnisense/omnilab-usgs).
 
 See [docs/](docs/index.md) for what is read, how it maps, and what the APIs do not give here.
 
