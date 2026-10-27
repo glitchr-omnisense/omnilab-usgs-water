@@ -1,5 +1,11 @@
 # omnilab/usgs-water
 
+The USGS's Water Data OGC APIs (`https://api.waterdata.usgs.gov/ogcapi/v1/`) for
+[omnisense/omnilab](https://github.com/glitchr-omnisense/omnilab): a monitoring location's
+discharge, gage height, water temperature or any parameter, as recorded, hourly or daily, at a
+`usgs.site` or the nearest location of a point, as series; the location itself as an entity;
+locations by name. No key needed.
+
 ## Installation
 
 ```sh
@@ -18,6 +24,47 @@ $water = (new UsgsWaterSourceFactory($httpClient))->create([
 
 With the Symfony bundle, the factory is registered as `usgs-water` when the bundle knows it;
 otherwise register `UsgsWaterSourceFactory` as a service.
+
+## Credentials
+
+None needed. The APIs' rate limits count per key or per address; an api.data.gov key for the
+USGS's water APIs (from the USGS's signup page) raises them: give it as `api_key`, sent as
+`X-Api-Key`.
+
+## Options
+
+The factory's options, with the defaults it applies (`UsgsWaterSourceFactory`):
+
+| Option | Type | Default | Required | Effect |
+|---|---|---|---|---|
+| `api_key` | `?string` | null | no | an api.data.gov key, sent as `X-Api-Key`: a higher rate limit |
+| `radius_km` | `float` | `25` | no | how far from a `Point` the nearest monitoring location keeping the parameter is looked for, in kilometres |
+| `mailto` | `?string` | null | no | a contact address, sent in the User-Agent |
+| `user_agent` | `?string` | null | no | the whole User-Agent, in place of the one made from `mailto` |
+| `throttle` | `float` | `0` | no | seconds left between two calls: the limits count per key or per address |
+| `base_uri` | `string` | `https://api.waterdata.usgs.gov/ogcapi/v1/` | no | the API the source calls |
+
+## Capabilities
+
+`capabilities()` answers `entity`, `search`, `series`, `historical`, `station`; an operation it does not answer throws `NotSupportedException` before any call.
+
+| Capability | Supported | |
+|---|---|---|
+| `entity` | yes | a monitoring location (`USGS-01646500`, `usgs.site:01646500`, its page, its API record), with the series it keeps; another scheme refused before any call |
+| `search` | yes | the USGS's locations whose name holds the text (CQL2 `LIKE`), paged by the API's cursor; no total |
+| `series` | yes | `discharge`, `gage_height`, `water_temperature`... or any USGS parameter code of five digits, at a `usgs.site` or at the nearest location of a `Point`, as recorded, hourly or daily (mean, max, min, sum: the API's statistics); no location near: an empty list |
+| `products` | no |  |
+| `occurrences` | no |  |
+| `datasets` | no |  |
+| `jobs` | no |  |
+| `open` | no |  |
+| `structure` | no |  |
+| `cross_references` | no | none: the APIs give no other base's id (Wikidata carries the location's number, P13020) |
+| `forecast` | no |  |
+| `historical` | yes | the records of the past (provisional when recent) |
+| `area` | no | a box is refused before any call |
+| `station` | yes | `usgs.site` |
+| `cloud_cover` | no |  |
 
 ## Which API
 
@@ -100,8 +147,10 @@ A location of a search holds the same but the series it keeps (`entity()` reads 
 
 ## The Collector
 
-No path: the APIs give no id of another base, and the `usgs.site` scheme is the only one that
-names a location here.
+The APIs give no id of another base. Into USGS Water: omnilab/wikidata reads an item's USGS
+monitoring location number (P13020) into the `usgs.site` scheme, so the `Collector` follows a
+Wikidata item into this source - and offers a location's id to Wikidata, which looks items up by
+it.
 
 ## What the APIs do not give here
 
@@ -109,6 +158,56 @@ The field measurements, the peaks, the water-quality samples (the Water Quality 
 statistics over years, the time series' revisions and methods, the reference lists (parameter
 codes, site types...), other agencies' locations (`USEPA-...`), the CQL2 filters beyond the name
 and a bounding box, and the WaterServices are not read.
+
+## Example
+
+```php
+<?php
+
+require __DIR__.'/vendor/autoload.php';
+
+use Omnilab\Model\Series;
+use Omnilab\Source\Query;
+use Omnilab\Source\SeriesQuery;
+use Omnilab\UsgsWater\UsgsWaterSourceFactory;
+use Symfony\Component\HttpClient\HttpClient;
+
+$water = (new UsgsWaterSourceFactory(HttpClient::create()))->create(['mailto' => 'you@example.org', 'api_key' => getenv('USGS_WATER_API_KEY') ?: null]);
+
+$potomac = $water->entity('USGS-01646500');
+echo $potomac->label, ' (', $potomac->id, '): ', $potomac->place, ', drainage ', $potomac->property('drainage_area'), ', ', count($potomac->properties('variable')), " series kept\n";
+
+[$discharge] = $water->series(new SeriesQuery(['discharge'], $potomac->id, new DateTimeImmutable('2026-10-20'), new DateTimeImmutable('2026-10-26'), SeriesQuery::DAILY, Series::MEAN));
+printf("%s (%s), daily means: %s\n", $discharge->label, $discharge->unit, implode(', ', $discharge->values()));
+
+$page = $water->search(new Query('potomac river', limit: 3));
+printf("%s locations named \"potomac river\"; the first %d: %s\n", $page->total ?? '?', count($page), implode('; ', array_map(static fn ($l) => $l->label, $page->items)));
+```
+
+```
+POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA (usgs.site:USGS-01646500): 38.949777777778,-77.127638888889, drainage 11560 mi², 65 series kept
+POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA (USGS-01646500) (ft^3/s), daily means: 5480, 4820, 4260, 3790, 3500, 3230, 
+? locations named "potomac river"; the first 3: NORTH BRANCH POTOMAC RIVER NEAR KEMPTON, MD; NORTH BRANCH POTOMAC RIVER NEAR WILSON, MD; NORTH BRANCH POTOMAC RIVER AT WILSON, MD
+```
+
+(as answered on 2026-10-27, without a key; the 26th's daily mean was not published yet: a null,
+the last value of the list)
+
+```yaml
+# config/packages/omnilab.yaml
+omnilab:
+    sources:
+        water: { factory: usgs-water, options: { mailto: '%env(OMNILAB_MAILTO)%', api_key: '%env(default::USGS_WATER_API_KEY)%' } }
+```
+
+## Errors
+
+Every call goes through `HttpSource`: a 404 or a 410 (and a 204) is null - an empty page for a list -; a 429 is a `RateLimitedException` (`retryAfter` from `Retry-After`); a 5xx, a time-out or a host that does not answer an `UnavailableException`; any other 4xx a `ProviderException` with its `status` and what the service said; an answer that is not JSON a `ProviderException`, a web page answered for JSON an `UnavailableException`.
+
+Before any call (`NotSupportedException`): a variable that is neither served nor a parameter code
+of five digits, an aggregation the daily statistics do not have, a box, a station of another
+scheme. A series that would take more than fifty pages of 50,000 values is a `ProviderException`
+("narrow the period"). An unknown location is the API's 404, null.
 
 ## Verified, and not
 
@@ -120,6 +219,19 @@ the hours' maxima; its daily mean discharge from 2026-10-01 to 10-07 (2,650 to 1
 answered out of order); a point beside it giving it as the nearest location with discharge; a
 search by name, two pages by the cursor. The fixtures in `Tests/Fixtures/` are its answers.
 
+Again on 2026-10-27: the Potomac at Little Falls by its id (65 series kept), its daily mean
+discharge from 10-20 to 10-26, a search by name (the example above).
+
 Not verified: a key (none created) and the rate limits (no 429 met; without a key the answers
 carried no `X-RateLimit-*` header); a series of more than 50,000 values (the `next` link is
 followed as the API's documentation shows).
+
+## Responsibility
+
+This package is an independent, unofficial client: it is not affiliated with, endorsed by or
+sponsored by the U.S. Geological Survey. Its water data are in the U.S. public domain; credit the
+USGS ("U.S. Geological Survey, Water Data for the Nation"); recent values are provisional, as the
+README's [Terms of use](https://github.com/glitchr-omnisense/omnilab-usgs-water#terms-of-use)
+says. Whoever runs the package is responsible for any use made of what it returns: see the
+README's [Responsibility](https://github.com/glitchr-omnisense/omnilab-usgs-water#responsibility)
+section.
