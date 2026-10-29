@@ -160,6 +160,14 @@ final class UsgsWaterSourceTest extends TestCase
         self::assertSame(['00060', 'Points'], [$this->calls[0][1]['parameter_code'], $this->calls[0][1]['computation_period_identifier']]);
     }
 
+    public function testNoLocationNearIsASeriesWithoutPointsPerVariable(): void
+    {
+        $series = $this->source(new MockResponse('{"type":"FeatureCollection","features":[]}'))->series(new SeriesQuery(['discharge', 'gage_height'], new Point(0, -150), new \DateTimeImmutable('2026-10-14'), new \DateTimeImmutable('2026-10-14')));
+
+        self::assertSame([['discharge', []], ['gage_height', []]], array_map(static fn (Series $s) => [$s->variable, $s->points], $series), 'one per variable asked, in the order asked');
+        self::assertEquals(new Point(0, -150), $series[0]->place);
+    }
+
     public function testAnAreaAnotherStationOrAVariableAreRefusedBeforeAnyCall(): void
     {
         $source = $this->source();

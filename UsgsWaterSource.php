@@ -172,7 +172,8 @@ final class UsgsWaterSource extends HttpSource
         if (null === $station) {
             $found = $this->nearest($query->place, reset($codes), $daily, $from, $to);
             if (null === $found) {
-                return [];
+                // No location near: a series without points per variable, at the point asked.
+                return array_map(static fn (string $v) => new Series($v, null, $query->place, [], $daily ? SeriesQuery::DAILY : $query->step, $daily ? ($query->aggregation ?? Series::MEAN) : $query->aggregation, null, false, 'usgs-water'), array_keys($codes));
             }
             [$station, $place, $name] = $found;
         } else {

@@ -52,7 +52,7 @@ The factory's options, with the defaults it applies (`UsgsWaterSourceFactory`):
 |---|---|---|
 | `entity` | yes | a monitoring location (`USGS-01646500`, `usgs.site:01646500`, its page, its API record), with the series it keeps; another scheme refused before any call |
 | `search` | yes | the USGS's locations whose name holds the text (CQL2 `LIKE`), paged by the API's cursor; no total |
-| `series` | yes | `discharge`, `gage_height`, `water_temperature`... or any USGS parameter code of five digits, at a `usgs.site` or at the nearest location of a `Point`, as recorded, hourly or daily (mean, max, min, sum: the API's statistics); no location near: an empty list |
+| `series` | yes | `discharge`, `gage_height`, `water_temperature`... or any USGS parameter code of five digits, at a `usgs.site` or at the nearest location of a `Point`, as recorded, hourly or daily (mean, max, min, sum: the API's statistics); no location near: a series without points per variable, at the point; an unknown location: an empty list |
 | `products` | no |  |
 | `occurrences` | no |  |
 | `datasets` | no |  |
@@ -125,7 +125,7 @@ The units in parentheses are those the API gave Little Falls' series on 2026-10-
   step's start (null when none was), with one the step's `MAX`, `MIN`, `MEAN` or `SUM`.
 
 A variable it does not read, another aggregation, a box or another scheme's station are refused
-before any call. An unknown location is `null` (404); a Point with no location near: no series.
+before any call. An unknown location is `null` (404); a Point with no location near: a series without points per variable, at the point.
 A 429 is a `RateLimitedException`; a 400 (`InvalidParameterValue`) a `ProviderException` with
 the API's description.
 
