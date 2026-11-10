@@ -1,0 +1,40 @@
+{
+    "$schema": "https://github.com/glitchr-omnisense/contracts/blob/1.x/resources/usage-policy.schema.json",
+    "provider": "usgs-water",
+    "rateLimits": null,
+    "concurrency": null,
+    "rights": {
+        "commercial": "allowed",
+        "openSourceRequired": null,
+        "caching": {
+            "permission": "allowed",
+            "maxTtl": null
+        },
+        "storage": "allowed",
+        "redistribution": "allowed",
+        "attribution": {
+            "required": false,
+            "text": "U.S. Geological Survey, Water Data for the Nation",
+            "url": "https://waterdata.usgs.gov/",
+            "where": [
+                "source"
+            ]
+        },
+        "licence": "US public domain (17 U.S.C. 105)"
+    },
+    "requirements": {
+        "key": false,
+        "userAgent": {
+            "required": false,
+            "pattern": null
+        }
+    },
+    "provenance": {
+        "terms": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+        "policy": "https://api.waterdata.usgs.gov/docs/ogcapi/keys/",
+        "verifiedAt": "2026-11-10",
+        "declaredBy": "maintainer",
+        "contact": "wdfn@usgs.gov",
+        "notes": "Pages read 2026-11-10 (docs/ogcapi/keys, signup, docs/ogcapi/migration, docs/agents): requests are rate limited per hour (per IP address without a key, per api.data.gov key with one; 429 beyond), a free key (api_key parameter or X-Api-Key header) gives 'higher rate limits', and the migration guide says more than 'a few queries per hour' need a key; no figure is published for either tier (the keys page's 'X-RateLimit-Limit: 1000' is an example header; api.data.gov's developer manual states 1,000 requests an hour per key by default and 30/hour, 50/day per IP for DEMO_KEY; third-party pages quote 1,000/hour with a key). Keyless responses checked 2026-11-10 carried no X-RateLimit headers; Cache-Control: public, max-age=3600. Up to 50,000 records a page. Information mostly in the public domain; copyrighted items need the owner's permission. Custom limits: wdfn@usgs.gov."
+    }
+}

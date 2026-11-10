@@ -1,0 +1,379 @@
+parameters:
+	ignoreErrors:
+		-
+			message: '#^Argument of an invalid type mixed supplied for foreach, only iterables are supported\.$#'
+			identifier: foreach.nonIterable
+			count: 1
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Cannot access property \$domain on Omnilab\\Model\\Entity\|null\.$#'
+			identifier: property.nonObject
+			count: 1
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Cannot access property \$elevation on Omnilab\\Model\\BBox\|Omnilab\\Model\\Point\|null\.$#'
+			identifier: property.nonObject
+			count: 1
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Cannot access property \$id on Omnilab\\Model\\Entity\|null\.$#'
+			identifier: property.nonObject
+			count: 1
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Cannot access property \$kind on Omnilab\\Model\\Entity\|null\.$#'
+			identifier: property.nonObject
+			count: 1
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Cannot access property \$label on Omnilab\\Model\\Entity\|null\.$#'
+			identifier: property.nonObject
+			count: 2
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Cannot access property \$latitude on Omnilab\\Model\\BBox\|Omnilab\\Model\\Point\|null\.$#'
+			identifier: property.nonObject
+			count: 1
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Cannot access property \$longitude on Omnilab\\Model\\BBox\|Omnilab\\Model\\Point\|null\.$#'
+			identifier: property.nonObject
+			count: 1
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Cannot access property \$place on Omnilab\\Model\\Entity\|null\.$#'
+			identifier: property.nonObject
+			count: 3
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Cannot access property \$url on Omnilab\\Model\\Entity\|null\.$#'
+			identifier: property.nonObject
+			count: 1
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Cannot call method properties\(\) on Omnilab\\Model\\Entity\|null\.$#'
+			identifier: method.nonObject
+			count: 1
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Cannot call method value\(\) on Omnilab\\Model\\Entity\|null\.$#'
+			identifier: method.nonObject
+			count: 7
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Match expression does not handle remaining value\: true$#'
+			identifier: match.unhandled
+			count: 1
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Method Omnilab\\UsgsWater\\Tests\\UsgsWaterSourceTest\:\:source\(\) has parameter \$options with no value type specified in iterable type array\.$#'
+			identifier: missingType.iterableValue
+			count: 1
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Parameter \#1 \$haystack of function str_contains expects string, array\<mixed\>\|string given\.$#'
+			identifier: argument.type
+			count: 1
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Parameter \#1 \$options of method Omnilab\\Source\\SourceFactory\:\:create\(\) expects array\<string, mixed\>, array given\.$#'
+			identifier: argument.type
+			count: 1
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Parameter \#2 \$string of function explode expects string, mixed given\.$#'
+			identifier: argument.type
+			count: 1
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Property Omnilab\\UsgsWater\\Tests\\UsgsWaterSourceTest\:\:\$calls \(list\<array\{string, array\<string, string\>, array\<string, string\>\}\>\) does not accept non\-empty\-list\<array\{string, array\<int\|string, array\<mixed\>\|string\>, array\<string, string\>\}\>\.$#'
+			identifier: assign.propertyType
+			count: 1
+			path: Tests/UsgsWaterSourceTest.php
+
+		-
+			message: '#^Argument of an invalid type mixed supplied for foreach, only iterables are supported\.$#'
+			identifier: foreach.nonIterable
+			count: 4
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''agency_name'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''altitude'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''altitude_accuracy'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''begin'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 2
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''computation_identifier'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''computation_period_identifier'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''contributing_drainage_area'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''coordinates'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 2
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''county_name'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''drainage_area'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''end'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 2
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''geometry'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''href'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 2
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''hydrologic_unit_code'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''id'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''monitoring_location_id'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''monitoring_location_name'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 2
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''parameter_code'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 2
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''parameter_name'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''properties'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''rel'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 2
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''site_type'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''state_name'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''time'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 2
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''time_zone_abbreviation'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''unit_of_measure'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 2
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''value'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''vertical_datum'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot access offset ''well_constructed_depth'' on mixed\.$#'
+			identifier: offsetAccess.nonOffsetAccessible
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot cast mixed to int\.$#'
+			identifier: cast.int
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot cast mixed to string\.$#'
+			identifier: cast.string
+			count: 6
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Match expression does not handle remaining value\: string$#'
+			identifier: match.unhandled
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Method Omnilab\\UsgsWater\\UsgsWaterSource\:\:features\(\) should return list\<array\<string, mixed\>\> but returns list\<array\<mixed, mixed\>\>\.$#'
+			identifier: return.type
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Parameter \#1 \$array of function array_filter expects array, mixed given\.$#'
+			identifier: argument.type
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Parameter \#1 \$feature of method Omnilab\\UsgsWater\\UsgsWaterSource\:\:toEntity\(\) expects array\<string, mixed\>, array given\.$#'
+			identifier: argument.type
+			count: 2
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Parameter \#1 \$feature of method Omnilab\\UsgsWater\\UsgsWaterSource\:\:toEntity\(\) expects array\<string, mixed\>, array\<mixed\> given\.$#'
+			identifier: argument.type
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Parameter \#1 \$text of static method Omnilab\\Source\\HttpSource\:\:text\(\) expects string\|null, mixed given\.$#'
+			identifier: argument.type
+			count: 11
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Parameter \#1 \$time of static method Omnilab\\Source\\HttpSource\:\:time\(\) expects string\|null, mixed given\.$#'
+			identifier: argument.type
+			count: 5
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Parameter \#2 \$code of method Omnilab\\UsgsWater\\UsgsWaterSource\:\:nearest\(\) expects string, string\|false given\.$#'
+			identifier: argument.type
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Parameter \#2 \$series of method Omnilab\\UsgsWater\\UsgsWaterSource\:\:toEntity\(\) expects list\<array\<string, mixed\>\>, list given\.$#'
+			identifier: argument.type
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Parameter \#2 \.\.\.\$values of function sprintf expects bool\|float\|int\|string\|null, mixed given\.$#'
+			identifier: argument.type
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Parameter \#3 \$value of class Omnilab\\Model\\Property constructor expects bool\|float\|int\|Omnilab\\Model\\Quantity\|string, mixed given\.$#'
+			identifier: argument.type
+			count: 1
+			path: UsgsWaterSource.php
+
+		-
+			message: '#^Cannot cast mixed to float\.$#'
+			identifier: cast.double
+			count: 2
+			path: UsgsWaterSourceFactory.php
+
+		-
+			message: '#^Cannot cast mixed to string\.$#'
+			identifier: cast.string
+			count: 2
+			path: UsgsWaterSourceFactory.php

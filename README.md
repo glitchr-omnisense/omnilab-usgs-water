@@ -52,6 +52,17 @@ and may be revised (each value's approval status says so). The APIs need no key;
 limits, per key or per address, answer 429 once exceeded, and an api.data.gov key (sent as
 `X-Api-Key`) raises them - the user obtains one from the USGS's signup page if needed.
 
+## Usage policy
+
+Declared as data in [`policy.json`](policy.json) (read at https://api.waterdata.usgs.gov/docs/ogcapi/keys/ on 2026-11-10), and honoured on every request by the
+core: a limit reached waits when its window ends within `max_wait` seconds, else the request is not
+sent ([Usage policies](https://github.com/glitchr-omnisense/omnilab/blob/1.x/docs/policies.md)).
+
+- Limits: not published (unknown).
+- Licence: US public domain (17 U.S.C. 105); commercial use: allowed.
+- Credit: not required: U.S. Geological Survey, Water Data for the Nation (https://waterdata.usgs.gov/).
+- Needs: nothing.
+
 ## Responsibility
 
 This package is an independent, unofficial client: it is not affiliated with, endorsed by or
