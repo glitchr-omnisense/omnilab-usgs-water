@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=8.2",
-        "omnisense/omnilab": "^1.0@dev",
+        "omnisense/omnilab": "^1.0",
         "symfony/http-client": "^6.4|^7.0|^8.0"
     },
     "require-dev": {
@@ -43,6 +43,9 @@
     "extra": {
         "omnisense": {
             "policy": "policy.json"
+        },
+        "branch-alias": {
+            "dev-1.x": "1.x-dev"
         }
     },
     "config": {

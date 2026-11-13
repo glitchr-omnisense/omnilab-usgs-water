@@ -44,6 +44,34 @@ The earthquakes of the USGS are [omnilab/usgs](https://github.com/glitchr-omnise
 
 See [docs/](docs/index.md) for what is read, how it maps, and what the APIs do not give here.
 
+## Install and a first call
+
+```sh
+composer require omnilab/usgs-water
+```
+
+A real call, with no account and no key: the Potomac at Little Falls, a USGS monitoring location.
+`mailto` is your address, sent in the User-Agent so that the service can reach you before it blocks
+a caller; the source keeps to the limits its [`policy.json`](policy.json) declares.
+
+```php
+<?php
+
+require __DIR__.'/vendor/autoload.php';
+
+use Omnilab\UsgsWater\UsgsWaterSourceFactory;
+
+$water = (new UsgsWaterSourceFactory())->create(['mailto' => 'you@example.org']);   // your address, in the User-Agent
+$falls = $water->entity('USGS-01646500');
+echo $falls->label, ', drainage area ', $falls->property('drainage_area'), "\n";
+```
+
+Its output on 2026-11-13:
+
+```
+POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA, drainage area 11560 mi²
+```
+
 ## Terms of use
 
 The USGS's water data are in the U.S. public domain; credit the USGS (for example "U.S.
